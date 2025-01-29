@@ -1,0 +1,721 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-01-30">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Dhaka" label="Dhaka" />
+      <node id="Biman_Bandar" label="Biman_Bandar" />
+      <node id="BBSetu_E" label="BBSetu_E" />
+      <node id="Chatmohar" label="Chatmohar" />
+      <node id="Natore" label="Natore" />
+      <node id="Santahar" label="Santahar" />
+      <node id="Talora" label="Talora" />
+      <node id="Bogura" label="Bogura" />
+      <node id="Sonatola" label="Sonatola" />
+      <node id="Bonar_Para" label="Bonar_Para" />
+      <node id="Gaibandha" label="Gaibandha" />
+      <node id="Bamondanga" label="Bamondanga" />
+      <node id="Pirgacha" label="Pirgacha" />
+      <node id="Kaunia" label="Kaunia" />
+      <node id="Kurigram" label="Kurigram" />
+      <node id="Rangpur" label="Rangpur" />
+      <node id="Joydebpur" label="Joydebpur" />
+      <node id="Tangail" label="Tangail" />
+      <node id="SH M Monsur Ali" label="SH M Monsur Ali" />
+      <node id="Ullapara" label="Ullapara" />
+      <node id="Ishwardi Bypass" label="Ishwardi Bypass" />
+      <node id="Akkelpur" label="Akkelpur" />
+      <node id="Joypurhat" label="Joypurhat" />
+      <node id="Panchbibi" label="Panchbibi" />
+      <node id="Birampur" label="Birampur" />
+      <node id="Fulbari" label="Fulbari" />
+      <node id="Parbatipur" label="Parbatipur" />
+      <node id="Chirirbandar" label="Chirirbandar" />
+      <node id="Dinajpur" label="Dinajpur" />
+      <node id="Setabganj" label="Setabganj" />
+      <node id="Pirganj" label="Pirganj" />
+      <node id="Thakurgaon_Road" label="Thakurgaon_Road" />
+      <node id="Ruhia" label="Ruhia" />
+      <node id="Kismat" label="Kismat" />
+      <node id="B Sirajul Islam" label="B Sirajul Islam" />
+      <node id="Chilahati" label="Chilahati" />
+      <node id="Domar" label="Domar" />
+      <node id="Nilphamari" label="Nilphamari" />
+      <node id="Saidpur" label="Saidpur" />
+      <node id="Ahsanganj" label="Ahsanganj" />
+      <node id="Ishwardi" label="Ishwardi" />
+      <node id="Pakshi" label="Pakshi" />
+      <node id="Bheramara" label="Bheramara" />
+      <node id="Poradaha" label="Poradaha" />
+      <node id="Alamdanga" label="Alamdanga" />
+      <node id="Chuadanga" label="Chuadanga" />
+      <node id="Darshana_Halt" label="Darshana_Halt" />
+      <node id="Kotchandpur" label="Kotchandpur" />
+      <node id="Mubarakganj" label="Mubarakganj" />
+      <node id="Jashore" label="Jashore" />
+      <node id="Noapara" label="Noapara" />
+      <node id="Khulna" label="Khulna" />
+      <node id="Jamtail" label="Jamtail" />
+      <node id="Boral_Bridge" label="Boral_Bridge" />
+      <node id="Abdulpur" label="Abdulpur" />
+      <node id="Arani" label="Arani" />
+      <node id="Rajshahi" label="Rajshahi" />
+      <node id="Daulatpur" label="Daulatpur" />
+      <node id="Kushtia_Court" label="Kushtia_Court" />
+      <node id="Kumarkhali" label="Kumarkhali" />
+      <node id="Khoksha" label="Khoksha" />
+      <node id="Pangsha" label="Pangsha" />
+      <node id="Kalukhali" label="Kalukhali" />
+      <node id="Naliagram" label="Naliagram" />
+      <node id="Baharpur" label="Baharpur" />
+      <node id="Madhukhali" label="Madhukhali" />
+      <node id="Boalmari_Bazar" label="Boalmari_Bazar" />
+      <node id="Kashiani" label="Kashiani" />
+      <node id="Chapta" label="Chapta" />
+      <node id="Choto Bahirbag" label="Choto Bahirbag" />
+      <node id="Chandradighalia" label="Chandradighalia" />
+      <node id="Gopalganj" label="Gopalganj" />
+      <node id="Borashi" label="Borashi" />
+      <node id="Gobra" label="Gobra" />
+      <node id="Sardah_Road" label="Sardah_Road" />
+      <node id="Mirzapur" label="Mirzapur" />
+      <node id="Azim Nagar" label="Azim Nagar" />
+      <node id="Teesta_Junction" label="Teesta_Junction" />
+      <node id="Lalmonirhat" label="Lalmonirhat" />
+      <node id="Madhnagar" label="Madhnagar" />
+      <node id="Badarganj" label="Badarganj" />
+      <node id="Mirpur" label="Mirpur" />
+      <node id="Rajbari" label="Rajbari" />
+      <node id="Pachuria" label="Pachuria" />
+      <node id="Amirabad" label="Amirabad" />
+      <node id="Faridpur" label="Faridpur" />
+      <node id="Talma" label="Talma" />
+      <node id="Pukuria" label="Pukuria" />
+      <node id="Bhanga" label="Bhanga" />
+      <node id="Shibchar" label="Shibchar" />
+      <node id="Padma" label="Padma" />
+      <node id="Mawa" label="Mawa" />
+      <node id="Muladhuli" label="Muladhuli" />
+      <node id="Shibganj" label="Shibganj" />
+      <node id="Jhikargacha" label="Jhikargacha" />
+      <node id="Benapole" label="Benapole" />
+      <node id="Jamalganj" label="Jamalganj" />
+      <node id="Hili" label="Hili" />
+      <node id="Safdarpur" label="Safdarpur" />
+      <node id="Chapai Nawabganj" label="Chapai Nawabganj" />
+      <node id="Amnura_Bypass" label="Amnura_Bypass" />
+      <node id="Lolitnagar" label="Lolitnagar" />
+      <node id="Kakonhat" label="Kakonhat" />
+      <node id="Sitlai" label="Sitlai" />
+      <node id="Majhgram" label="Majhgram" />
+      <node id="Dashuria" label="Dashuria" />
+      <node id="Tebunia" label="Tebunia" />
+      <node id="Pabna" label="Pabna" />
+      <node id="Raghabpur" label="Raghabpur" />
+      <node id="Dublia" label="Dublia" />
+      <node id="Tantibandha" label="Tantibandha" />
+      <node id="Sathia_Rajapur" label="Sathia_Rajapur" />
+      <node id="Kashinathpur" label="Kashinathpur" />
+      <node id="Badherhat" label="Badherhat" />
+      <node id="Dhalarchar" label="Dhalarchar" />
+      <node id="Burimari" label="Burimari" />
+      <node id="Patgram" label="Patgram" />
+      <node id="Barkhata" label="Barkhata" />
+      <node id="Hatibandha" label="Hatibandha" />
+      <node id="Tushbhandar" label="Tushbhandar" />
+      <node id="Kankina" label="Kankina" />
+      <node id="Aditmari" label="Aditmari" />
+      <node id="Mahimaganj" label="Mahimaganj" />
+      <node id="Badiakhali" label="Badiakhali" />
+      <node id="Kholahati" label="Kholahati" />
+      <node id="Bhomradah" label="Bhomradah" />
+      <node id="Bhairab_Bazar" label="Bhairab_Bazar" />
+      <node id="Brahmanbaria" label="Brahmanbaria" />
+      <node id="Akhaura" label="Akhaura" />
+      <node id="Cumilla" label="Cumilla" />
+      <node id="Laksam" label="Laksam" />
+      <node id="Gunabati" label="Gunabati" />
+      <node id="Feni" label="Feni" />
+      <node id="Chattogram" label="Chattogram" />
+      <node id="Narsingdi" label="Narsingdi" />
+      <node id="Ashuganj" label="Ashuganj" />
+      <node id="Quasba" label="Quasba" />
+      <node id="Natherpetua" label="Natherpetua" />
+      <node id="Sonaimuri" label="Sonaimuri" />
+      <node id="Bajra" label="Bajra" />
+      <node id="Choumuhani" label="Choumuhani" />
+      <node id="Maijdi Court" label="Maijdi Court" />
+      <node id="Noakhali" label="Noakhali" />
+      <node id="Sylhet" label="Sylhet" />
+      <node id="Maijgaon" label="Maijgaon" />
+      <node id="Kulaura" label="Kulaura" />
+      <node id="Bhanugach" label="Bhanugach" />
+      <node id="Sreemangal" label="Sreemangal" />
+      <node id="Shaistaganj" label="Shaistaganj" />
+      <node id="Nayapara" label="Nayapara" />
+      <node id="Azampur" label="Azampur" />
+      <node id="Shahaji_Bazar" label="Shahaji_Bazar" />
+      <node id="Montola" label="Montola" />
+      <node id="Harashpur" label="Harashpur" />
+      <node id="Mukundapur" label="Mukundapur" />
+      <node id="Nangolkot" label="Nangolkot" />
+      <node id="Shamshernagar" label="Shamshernagar" />
+      <node id="Baramchal" label="Baramchal" />
+      <node id="Kumira" label="Kumira" />
+      <node id="Tarakandi" label="Tarakandi" />
+      <node id="Sarishabari" label="Sarishabari" />
+      <node id="Kendua_Bazar" label="Kendua_Bazar" />
+      <node id="Jamalpur_Town" label="Jamalpur_Town" />
+      <node id="Narundi" label="Narundi" />
+      <node id="Mymensingh" label="Mymensingh" />
+      <node id="Gafargaon" label="Gafargaon" />
+      <node id="Piyarpur" label="Piyarpur" />
+      <node id="Nandina" label="Nandina" />
+      <node id="Melandah_Bazar" label="Melandah_Bazar" />
+      <node id="Islampur_Bazar" label="Islampur_Bazar" />
+      <node id="Dewanganj_Bazar" label="Dewanganj_Bazar" />
+      <node id="Bidyaganj" label="Bidyaganj" />
+      <node id="Sreepur" label="Sreepur" />
+      <node id="Kishorganj" label="Kishorganj" />
+      <node id="Gachihata" label="Gachihata" />
+      <node id="Manikkhali" label="Manikkhali" />
+      <node id="Sararchar" label="Sararchar" />
+      <node id="Bajitpur" label="Bajitpur" />
+      <node id="Kuliarchar" label="Kuliarchar" />
+      <node id="Methikanda" label="Methikanda" />
+      <node id="Gouripur_Myn" label="Gouripur_Myn" />
+      <node id="Atharabari" label="Atharabari" />
+      <node id="Bhatiary" label="Bhatiary" />
+      <node id="Jaforshahi" label="Jaforshahi" />
+      <node id="Adv. Motiur Rahman" label="Adv. Motiur Rahman" />
+      <node id="Hemnagar" label="Hemnagar" />
+      <node id="Bhuapur" label="Bhuapur" />
+      <node id="Shashidal" label="Shashidal" />
+      <node id="Hasanpur" label="Hasanpur" />
+      <node id="Chandpur" label="Chandpur" />
+      <node id="Chandpur_Court" label="Chandpur_Court" />
+      <node id="Modhu_Road" label="Modhu_Road" />
+      <node id="Hajiganj" label="Hajiganj" />
+      <node id="Meher" label="Meher" />
+      <node id="Chitoshi_Road" label="Chitoshi_Road" />
+      <node id="Mohanganj" label="Mohanganj" />
+      <node id="Barhatta" label="Barhatta" />
+      <node id="Thakrokona" label="Thakrokona" />
+      <node id="Netrakona" label="Netrakona" />
+      <node id="Shyamgonj" label="Shyamgonj" />
+      <node id="Lokmanpur" label="Lokmanpur" />
+      <node id="Rajshahi_Court" label="Rajshahi_Court" />
+      <node id="Amnura" label="Amnura" />
+      <node id="Nachole" label="Nachole" />
+      <node id="Rohanpur" label="Rohanpur" />
+      <node id="Narayanganj" label="Narayanganj" />
+      <node id="Cox's Bazar" label="Cox's Bazar" />
+      <node id="Ramu" label="Ramu" />
+      <node id="Dulahazara" label="Dulahazara" />
+      <node id="Chakaria" label="Chakaria" />
+      <node id="Satkania" label="Satkania" />
+      <node id="Dohazari" label="Dohazari" />
+      <node id="Patiya" label="Patiya" />
+      <node id="Janali_Hat" label="Janali_Hat" />
+      <node id="Sholoshohor" label="Sholoshohor" />
+      <node id="Nayaniburuj" label="Nayaniburuj" />
+      <node id="Akhanagar" label="Akhanagar" />
+      <node id="Sultanpur" label="Sultanpur" />
+      <node id="Mongalpur" label="Mongalpur" />
+      <node id="Kanchan_Junction" label="Kanchan_Junction" />
+      <node id="Kawgaon" label="Kawgaon" />
+      <node id="Manmathapur" label="Manmathapur" />
+    </nodes>
+    <edges>
+      <edge source="Dhaka" target="Biman_Bandar" id="0" />
+      <edge source="Dhaka" target="Bhanga" id="1" />
+      <edge source="Dhaka" target="Narayanganj" id="2" />
+      <edge source="Biman_Bandar" target="BBSetu_E" id="3" />
+      <edge source="Biman_Bandar" target="Joydebpur" id="4" />
+      <edge source="Biman_Bandar" target="Natore" id="5" />
+      <edge source="Biman_Bandar" target="Dhaka" id="6" />
+      <edge source="Biman_Bandar" target="Rajshahi" id="7" />
+      <edge source="Biman_Bandar" target="Bhairab_Bazar" id="8" />
+      <edge source="Biman_Bandar" target="Narsingdi" id="9" />
+      <edge source="Biman_Bandar" target="Ishwardi Bypass" id="10" />
+      <edge source="Biman_Bandar" target="Chattogram" id="11" />
+      <edge source="BBSetu_E" target="Chatmohar" id="12" />
+      <edge source="BBSetu_E" target="Dhaka" id="13" />
+      <edge source="BBSetu_E" target="SH M Monsur Ali" id="14" />
+      <edge source="BBSetu_E" target="Tangail" id="15" />
+      <edge source="BBSetu_E" target="Joydebpur" id="16" />
+      <edge source="BBSetu_E" target="Jamtail" id="17" />
+      <edge source="BBSetu_E" target="Muladhuli" id="18" />
+      <edge source="Chatmohar" target="Natore" id="19" />
+      <edge source="Chatmohar" target="Ishwardi Bypass" id="20" />
+      <edge source="Chatmohar" target="Boral_Bridge" id="21" />
+      <edge source="Chatmohar" target="Jamtail" id="22" />
+      <edge source="Chatmohar" target="Ishwardi" id="23" />
+      <edge source="Natore" target="Santahar" id="24" />
+      <edge source="Natore" target="BBSetu_E" id="25" />
+      <edge source="Natore" target="Ullapara" id="26" />
+      <edge source="Natore" target="Ishwardi" id="27" />
+      <edge source="Natore" target="Azim Nagar" id="28" />
+      <edge source="Natore" target="Madhnagar" id="29" />
+      <edge source="Natore" target="Dhaka" id="30" />
+      <edge source="Natore" target="Ahsanganj" id="31" />
+      <edge source="Natore" target="Ishwardi Bypass" id="32" />
+      <edge source="Natore" target="Muladhuli" id="33" />
+      <edge source="Natore" target="Abdulpur" id="34" />
+      <edge source="Santahar" target="Talora" id="35" />
+      <edge source="Santahar" target="Natore" id="36" />
+      <edge source="Santahar" target="Akkelpur" id="37" />
+      <edge source="Santahar" target="Ahsanganj" id="38" />
+      <edge source="Santahar" target="Bogura" id="39" />
+      <edge source="Santahar" target="Joypurhat" id="40" />
+      <edge source="Santahar" target="Madhnagar" id="41" />
+      <edge source="Talora" target="Bogura" id="42" />
+      <edge source="Talora" target="Santahar" id="43" />
+      <edge source="Bogura" target="Sonatola" id="44" />
+      <edge source="Bogura" target="Talora" id="45" />
+      <edge source="Bogura" target="Santahar" id="46" />
+      <edge source="Bogura" target="Bonar_Para" id="47" />
+      <edge source="Sonatola" target="Bonar_Para" id="48" />
+      <edge source="Sonatola" target="Bogura" id="49" />
+      <edge source="Sonatola" target="Mahimaganj" id="50" />
+      <edge source="Bonar_Para" target="Gaibandha" id="51" />
+      <edge source="Bonar_Para" target="Sonatola" id="52" />
+      <edge source="Bonar_Para" target="Mahimaganj" id="53" />
+      <edge source="Bonar_Para" target="Badiakhali" id="54" />
+      <edge source="Bonar_Para" target="Bogura" id="55" />
+      <edge source="Gaibandha" target="Bamondanga" id="56" />
+      <edge source="Gaibandha" target="Bonar_Para" id="57" />
+      <edge source="Gaibandha" target="Kaunia" id="58" />
+      <edge source="Bamondanga" target="Pirgacha" id="59" />
+      <edge source="Bamondanga" target="Gaibandha" id="60" />
+      <edge source="Pirgacha" target="Kaunia" id="61" />
+      <edge source="Pirgacha" target="Bamondanga" id="62" />
+      <edge source="Kaunia" target="Kurigram" id="63" />
+      <edge source="Kaunia" target="Pirgacha" id="64" />
+      <edge source="Kaunia" target="Teesta_Junction" id="65" />
+      <edge source="Kaunia" target="Rangpur" id="66" />
+      <edge source="Kaunia" target="Lalmonirhat" id="67" />
+      <edge source="Kaunia" target="Gaibandha" id="68" />
+      <edge source="Kurigram" target="Rangpur" id="69" />
+      <edge source="Kurigram" target="Kaunia" id="70" />
+      <edge source="Rangpur" target="Kurigram" id="71" />
+      <edge source="Rangpur" target="Kaunia" id="72" />
+      <edge source="Rangpur" target="Badarganj" id="73" />
+      <edge source="Joydebpur" target="Tangail" id="74" />
+      <edge source="Joydebpur" target="Dhaka" id="75" />
+      <edge source="Joydebpur" target="Mirzapur" id="76" />
+      <edge source="Joydebpur" target="BBSetu_E" id="77" />
+      <edge source="Joydebpur" target="Biman_Bandar" id="78" />
+      <edge source="Joydebpur" target="Gafargaon" id="79" />
+      <edge source="Joydebpur" target="Ishwardi Bypass" id="80" />
+      <edge source="Tangail" target="BBSetu_E" id="81" />
+      <edge source="Tangail" target="Joydebpur" id="82" />
+      <edge source="Tangail" target="Mirzapur" id="83" />
+      <edge source="SH M Monsur Ali" target="Ullapara" id="84" />
+      <edge source="SH M Monsur Ali" target="Jamtail" id="85" />
+      <edge source="SH M Monsur Ali" target="BBSetu_E" id="86" />
+      <edge source="Ullapara" target="Ishwardi Bypass" id="87" />
+      <edge source="Ullapara" target="BBSetu_E" id="88" />
+      <edge source="Ullapara" target="Boral_Bridge" id="89" />
+      <edge source="Ullapara" target="SH M Monsur Ali" id="90" />
+      <edge source="Ullapara" target="Jamtail" id="91" />
+      <edge source="Ishwardi Bypass" target="Natore" id="92" />
+      <edge source="Ishwardi Bypass" target="Abdulpur" id="93" />
+      <edge source="Ishwardi Bypass" target="Chatmohar" id="94" />
+      <edge source="Ishwardi Bypass" target="Majhgram" id="95" />
+      <edge source="Ishwardi Bypass" target="Joydebpur" id="96" />
+      <edge source="Akkelpur" target="Joypurhat" id="97" />
+      <edge source="Akkelpur" target="Santahar" id="98" />
+      <edge source="Akkelpur" target="Jamalganj" id="99" />
+      <edge source="Joypurhat" target="Panchbibi" id="100" />
+      <edge source="Joypurhat" target="Akkelpur" id="101" />
+      <edge source="Joypurhat" target="Parbatipur" id="102" />
+      <edge source="Joypurhat" target="Santahar" id="103" />
+      <edge source="Joypurhat" target="Birampur" id="104" />
+      <edge source="Joypurhat" target="Jamalganj" id="105" />
+      <edge source="Panchbibi" target="Birampur" id="106" />
+      <edge source="Panchbibi" target="Joypurhat" id="107" />
+      <edge source="Panchbibi" target="Hili" id="108" />
+      <edge source="Birampur" target="Fulbari" id="109" />
+      <edge source="Birampur" target="Panchbibi" id="110" />
+      <edge source="Birampur" target="Joypurhat" id="111" />
+      <edge source="Birampur" target="Hili" id="112" />
+      <edge source="Fulbari" target="Parbatipur" id="113" />
+      <edge source="Fulbari" target="Birampur" id="114" />
+      <edge source="Parbatipur" target="Chirirbandar" id="115" />
+      <edge source="Parbatipur" target="Fulbari" id="116" />
+      <edge source="Parbatipur" target="Badarganj" id="117" />
+      <edge source="Parbatipur" target="Joypurhat" id="118" />
+      <edge source="Parbatipur" target="Saidpur" id="119" />
+      <edge source="Chirirbandar" target="Dinajpur" id="120" />
+      <edge source="Chirirbandar" target="Parbatipur" id="121" />
+      <edge source="Chirirbandar" target="Manmathapur" id="122" />
+      <edge source="Dinajpur" target="Setabganj" id="123" />
+      <edge source="Dinajpur" target="Chirirbandar" id="124" />
+      <edge source="Dinajpur" target="Kawgaon" id="125" />
+      <edge source="Setabganj" target="Pirganj" id="126" />
+      <edge source="Setabganj" target="Dinajpur" id="127" />
+      <edge source="Setabganj" target="Mongalpur" id="128" />
+      <edge source="Pirganj" target="Thakurgaon_Road" id="129" />
+      <edge source="Pirganj" target="Setabganj" id="130" />
+      <edge source="Pirganj" target="Bhomradah" id="131" />
+      <edge source="Pirganj" target="Sultanpur" id="132" />
+      <edge source="Thakurgaon_Road" target="Ruhia" id="133" />
+      <edge source="Thakurgaon_Road" target="Pirganj" id="134" />
+      <edge source="Thakurgaon_Road" target="Shibganj" id="135" />
+      <edge source="Ruhia" target="Kismat" id="136" />
+      <edge source="Ruhia" target="Thakurgaon_Road" id="137" />
+      <edge source="Ruhia" target="Akhanagar" id="138" />
+      <edge source="Kismat" target="B Sirajul Islam" id="139" />
+      <edge source="Kismat" target="Ruhia" id="140" />
+      <edge source="B Sirajul Islam" target="Kismat" id="141" />
+      <edge source="B Sirajul Islam" target="Nayaniburuj" id="142" />
+      <edge source="Chilahati" target="Domar" id="143" />
+      <edge source="Domar" target="Nilphamari" id="144" />
+      <edge source="Domar" target="Chilahati" id="145" />
+      <edge source="Nilphamari" target="Saidpur" id="146" />
+      <edge source="Nilphamari" target="Domar" id="147" />
+      <edge source="Saidpur" target="Parbatipur" id="148" />
+      <edge source="Saidpur" target="Nilphamari" id="149" />
+      <edge source="Ahsanganj" target="Natore" id="150" />
+      <edge source="Ahsanganj" target="Santahar" id="151" />
+      <edge source="Ahsanganj" target="Madhnagar" id="152" />
+      <edge source="Ishwardi" target="Pakshi" id="153" />
+      <edge source="Ishwardi" target="Bheramara" id="154" />
+      <edge source="Ishwardi" target="Chatmohar" id="155" />
+      <edge source="Ishwardi" target="Azim Nagar" id="156" />
+      <edge source="Pakshi" target="Bheramara" id="157" />
+      <edge source="Bheramara" target="Poradaha" id="158" />
+      <edge source="Bheramara" target="Mirpur" id="159" />
+      <edge source="Bheramara" target="Ishwardi" id="160" />
+      <edge source="Poradaha" target="Alamdanga" id="161" />
+      <edge source="Poradaha" target="Kushtia_Court" id="162" />
+      <edge source="Poradaha" target="Mirpur" id="163" />
+      <edge source="Poradaha" target="Chuadanga" id="164" />
+      <edge source="Alamdanga" target="Chuadanga" id="165" />
+      <edge source="Alamdanga" target="Poradaha" id="166" />
+      <edge source="Chuadanga" target="Darshana_Halt" id="167" />
+      <edge source="Chuadanga" target="Alamdanga" id="168" />
+      <edge source="Chuadanga" target="Kotchandpur" id="169" />
+      <edge source="Darshana_Halt" target="Kotchandpur" id="170" />
+      <edge source="Darshana_Halt" target="Chuadanga" id="171" />
+      <edge source="Darshana_Halt" target="Safdarpur" id="172" />
+      <edge source="Kotchandpur" target="Mubarakganj" id="173" />
+      <edge source="Kotchandpur" target="Darshana_Halt" id="174" />
+      <edge source="Mubarakganj" target="Jashore" id="175" />
+      <edge source="Mubarakganj" target="Kotchandpur" id="176" />
+      <edge source="Jashore" target="Noapara" id="177" />
+      <edge source="Jashore" target="Mubarakganj" id="178" />
+      <edge source="Jashore" target="Jhikargacha" id="179" />
+      <edge source="Noapara" target="Khulna" id="180" />
+      <edge source="Noapara" target="Daulatpur" id="181" />
+      <edge source="Noapara" target="Jashore" id="182" />
+      <edge source="Khulna" target="Noapara" id="183" />
+      <edge source="Jamtail" target="Ullapara" id="184" />
+      <edge source="Jamtail" target="SH M Monsur Ali" id="185" />
+      <edge source="Jamtail" target="Chatmohar" id="186" />
+      <edge source="Jamtail" target="BBSetu_E" id="187" />
+      <edge source="Boral_Bridge" target="Chatmohar" id="188" />
+      <edge source="Boral_Bridge" target="SH M Monsur Ali" id="189" />
+      <edge source="Boral_Bridge" target="Ullapara" id="190" />
+      <edge source="Boral_Bridge" target="Azim Nagar" id="191" />
+      <edge source="Abdulpur" target="Arani" id="192" />
+      <edge source="Abdulpur" target="Ishwardi Bypass" id="193" />
+      <edge source="Abdulpur" target="Sardah_Road" id="194" />
+      <edge source="Abdulpur" target="Rajshahi" id="195" />
+      <edge source="Abdulpur" target="Natore" id="196" />
+      <edge source="Abdulpur" target="Azim Nagar" id="197" />
+      <edge source="Abdulpur" target="Lokmanpur" id="198" />
+      <edge source="Arani" target="Rajshahi" id="199" />
+      <edge source="Arani" target="Abdulpur" id="200" />
+      <edge source="Arani" target="Sardah_Road" id="201" />
+      <edge source="Arani" target="Lokmanpur" id="202" />
+      <edge source="Rajshahi" target="Arani" id="203" />
+      <edge source="Rajshahi" target="Ishwardi" id="204" />
+      <edge source="Rajshahi" target="Sardah_Road" id="205" />
+      <edge source="Rajshahi" target="Abdulpur" id="206" />
+      <edge source="Rajshahi" target="Chapai Nawabganj" id="207" />
+      <edge source="Rajshahi" target="Dhaka" id="208" />
+      <edge source="Rajshahi" target="Rajshahi_Court" id="209" />
+      <edge source="Daulatpur" target="Khulna" id="210" />
+      <edge source="Kushtia_Court" target="Kumarkhali" id="211" />
+      <edge source="Kushtia_Court" target="Poradaha" id="212" />
+      <edge source="Kumarkhali" target="Khoksha" id="213" />
+      <edge source="Khoksha" target="Pangsha" id="214" />
+      <edge source="Khoksha" target="Kushtia_Court" id="215" />
+      <edge source="Pangsha" target="Kalukhali" id="216" />
+      <edge source="Pangsha" target="Kushtia_Court" id="217" />
+      <edge source="Kalukhali" target="Naliagram" id="218" />
+      <edge source="Kalukhali" target="Rajbari" id="219" />
+      <edge source="Naliagram" target="Baharpur" id="220" />
+      <edge source="Baharpur" target="Madhukhali" id="221" />
+      <edge source="Madhukhali" target="Boalmari_Bazar" id="222" />
+      <edge source="Boalmari_Bazar" target="Kashiani" id="223" />
+      <edge source="Kashiani" target="Chapta" id="224" />
+      <edge source="Chapta" target="Choto Bahirbag" id="225" />
+      <edge source="Choto Bahirbag" target="Chandradighalia" id="226" />
+      <edge source="Chandradighalia" target="Gopalganj" id="227" />
+      <edge source="Gopalganj" target="Borashi" id="228" />
+      <edge source="Borashi" target="Gobra" id="229" />
+      <edge source="Sardah_Road" target="Rajshahi" id="230" />
+      <edge source="Sardah_Road" target="Abdulpur" id="231" />
+      <edge source="Sardah_Road" target="Arani" id="232" />
+      <edge source="Mirzapur" target="Tangail" id="233" />
+      <edge source="Mirzapur" target="Joydebpur" id="234" />
+      <edge source="Azim Nagar" target="Natore" id="235" />
+      <edge source="Azim Nagar" target="Boral_Bridge" id="236" />
+      <edge source="Azim Nagar" target="Ishwardi" id="237" />
+      <edge source="Azim Nagar" target="Ishwardi Bypass" id="238" />
+      <edge source="Azim Nagar" target="Abdulpur" id="239" />
+      <edge source="Teesta_Junction" target="Lalmonirhat" id="240" />
+      <edge source="Teesta_Junction" target="Kaunia" id="241" />
+      <edge source="Lalmonirhat" target="Teesta_Junction" id="242" />
+      <edge source="Lalmonirhat" target="Tushbhandar" id="243" />
+      <edge source="Lalmonirhat" target="Burimari" id="244" />
+      <edge source="Madhnagar" target="Santahar" id="245" />
+      <edge source="Madhnagar" target="Natore" id="246" />
+      <edge source="Madhnagar" target="Ahsanganj" id="247" />
+      <edge source="Badarganj" target="Rangpur" id="248" />
+      <edge source="Badarganj" target="Parbatipur" id="249" />
+      <edge source="Badarganj" target="Kholahati" id="250" />
+      <edge source="Mirpur" target="Poradaha" id="251" />
+      <edge source="Mirpur" target="Bheramara" id="252" />
+      <edge source="Rajbari" target="Pachuria" id="253" />
+      <edge source="Rajbari" target="Pangsha" id="254" />
+      <edge source="Rajbari" target="Khoksha" id="255" />
+      <edge source="Pachuria" target="Amirabad" id="256" />
+      <edge source="Amirabad" target="Faridpur" id="257" />
+      <edge source="Faridpur" target="Talma" id="258" />
+      <edge source="Faridpur" target="Rajbari" id="259" />
+      <edge source="Talma" target="Pukuria" id="260" />
+      <edge source="Pukuria" target="Bhanga" id="261" />
+      <edge source="Bhanga" target="Shibchar" id="262" />
+      <edge source="Bhanga" target="Faridpur" id="263" />
+      <edge source="Shibchar" target="Padma" id="264" />
+      <edge source="Padma" target="Mawa" id="265" />
+      <edge source="Mawa" target="Dhaka" id="266" />
+      <edge source="Muladhuli" target="Natore" id="267" />
+      <edge source="Muladhuli" target="BBSetu_E" id="268" />
+      <edge source="Shibganj" target="Pirganj" id="269" />
+      <edge source="Shibganj" target="Bhomradah" id="270" />
+      <edge source="Jhikargacha" target="Benapole" id="271" />
+      <edge source="Jamalganj" target="Joypurhat" id="272" />
+      <edge source="Jamalganj" target="Akkelpur" id="273" />
+      <edge source="Hili" target="Birampur" id="274" />
+      <edge source="Hili" target="Panchbibi" id="275" />
+      <edge source="Safdarpur" target="Kotchandpur" id="276" />
+      <edge source="Chapai Nawabganj" target="Amnura_Bypass" id="277" />
+      <edge source="Chapai Nawabganj" target="Rajshahi" id="278" />
+      <edge source="Amnura_Bypass" target="Lolitnagar" id="279" />
+      <edge source="Lolitnagar" target="Kakonhat" id="280" />
+      <edge source="Lolitnagar" target="Amnura" id="281" />
+      <edge source="Kakonhat" target="Sitlai" id="282" />
+      <edge source="Kakonhat" target="Lolitnagar" id="283" />
+      <edge source="Kakonhat" target="Rajshahi" id="284" />
+      <edge source="Kakonhat" target="Rajshahi_Court" id="285" />
+      <edge source="Sitlai" target="Rajshahi" id="286" />
+      <edge source="Majhgram" target="Dashuria" id="287" />
+      <edge source="Dashuria" target="Tebunia" id="288" />
+      <edge source="Tebunia" target="Pabna" id="289" />
+      <edge source="Pabna" target="Raghabpur" id="290" />
+      <edge source="Raghabpur" target="Dublia" id="291" />
+      <edge source="Dublia" target="Tantibandha" id="292" />
+      <edge source="Tantibandha" target="Sathia_Rajapur" id="293" />
+      <edge source="Sathia_Rajapur" target="Kashinathpur" id="294" />
+      <edge source="Kashinathpur" target="Badherhat" id="295" />
+      <edge source="Badherhat" target="Dhalarchar" id="296" />
+      <edge source="Burimari" target="Patgram" id="297" />
+      <edge source="Patgram" target="Barkhata" id="298" />
+      <edge source="Patgram" target="Burimari" id="299" />
+      <edge source="Barkhata" target="Hatibandha" id="300" />
+      <edge source="Barkhata" target="Patgram" id="301" />
+      <edge source="Hatibandha" target="Tushbhandar" id="302" />
+      <edge source="Hatibandha" target="Barkhata" id="303" />
+      <edge source="Tushbhandar" target="Kankina" id="304" />
+      <edge source="Tushbhandar" target="Hatibandha" id="305" />
+      <edge source="Tushbhandar" target="Kaunia" id="306" />
+      <edge source="Kankina" target="Aditmari" id="307" />
+      <edge source="Aditmari" target="Lalmonirhat" id="308" />
+      <edge source="Mahimaganj" target="Sonatola" id="309" />
+      <edge source="Mahimaganj" target="Bonar_Para" id="310" />
+      <edge source="Badiakhali" target="Gaibandha" id="311" />
+      <edge source="Kholahati" target="Parbatipur" id="312" />
+      <edge source="Bhomradah" target="Thakurgaon_Road" id="313" />
+      <edge source="Bhomradah" target="Pirganj" id="314" />
+      <edge source="Bhairab_Bazar" target="Brahmanbaria" id="315" />
+      <edge source="Bhairab_Bazar" target="Ashuganj" id="316" />
+      <edge source="Bhairab_Bazar" target="Biman_Bandar" id="317" />
+      <edge source="Bhairab_Bazar" target="Shaistaganj" id="318" />
+      <edge source="Bhairab_Bazar" target="Narsingdi" id="319" />
+      <edge source="Bhairab_Bazar" target="Methikanda" id="320" />
+      <edge source="Bhairab_Bazar" target="Akhaura" id="321" />
+      <edge source="Brahmanbaria" target="Akhaura" id="322" />
+      <edge source="Brahmanbaria" target="Bhairab_Bazar" id="323" />
+      <edge source="Brahmanbaria" target="Ashuganj" id="324" />
+      <edge source="Akhaura" target="Cumilla" id="325" />
+      <edge source="Akhaura" target="Quasba" id="326" />
+      <edge source="Akhaura" target="Harashpur" id="327" />
+      <edge source="Cumilla" target="Laksam" id="328" />
+      <edge source="Cumilla" target="Quasba" id="329" />
+      <edge source="Laksam" target="Gunabati" id="330" />
+      <edge source="Laksam" target="Natherpetua" id="331" />
+      <edge source="Laksam" target="Cumilla" id="332" />
+      <edge source="Laksam" target="Nangolkot" id="333" />
+      <edge source="Laksam" target="Feni" id="334" />
+      <edge source="Gunabati" target="Feni" id="335" />
+      <edge source="Feni" target="Chattogram" id="336" />
+      <edge source="Feni" target="Nangolkot" id="337" />
+      <edge source="Feni" target="Kumira" id="338" />
+      <edge source="Feni" target="Bhatiary" id="339" />
+      <edge source="Chattogram" target="Feni" id="340" />
+      <edge source="Chattogram" target="Cox's Bazar" id="341" />
+      <edge source="Narsingdi" target="Bhairab_Bazar" id="342" />
+      <edge source="Narsingdi" target="Biman_Bandar" id="343" />
+      <edge source="Narsingdi" target="Methikanda" id="344" />
+      <edge source="Ashuganj" target="Brahmanbaria" id="345" />
+      <edge source="Ashuganj" target="Biman_Bandar" id="346" />
+      <edge source="Quasba" target="Cumilla" id="347" />
+      <edge source="Quasba" target="Akhaura" id="348" />
+      <edge source="Quasba" target="Shashidal" id="349" />
+      <edge source="Natherpetua" target="Sonaimuri" id="350" />
+      <edge source="Sonaimuri" target="Bajra" id="351" />
+      <edge source="Bajra" target="Choumuhani" id="352" />
+      <edge source="Choumuhani" target="Maijdi Court" id="353" />
+      <edge source="Maijdi Court" target="Noakhali" id="354" />
+      <edge source="Sylhet" target="Maijgaon" id="355" />
+      <edge source="Maijgaon" target="Kulaura" id="356" />
+      <edge source="Maijgaon" target="Sylhet" id="357" />
+      <edge source="Maijgaon" target="Baramchal" id="358" />
+      <edge source="Kulaura" target="Bhanugach" id="359" />
+      <edge source="Kulaura" target="Baramchal" id="360" />
+      <edge source="Kulaura" target="Shamshernagar" id="361" />
+      <edge source="Bhanugach" target="Sreemangal" id="362" />
+      <edge source="Bhanugach" target="Shamshernagar" id="363" />
+      <edge source="Sreemangal" target="Shaistaganj" id="364" />
+      <edge source="Sreemangal" target="Bhanugach" id="365" />
+      <edge source="Shaistaganj" target="Nayapara" id="366" />
+      <edge source="Shaistaganj" target="Shahaji_Bazar" id="367" />
+      <edge source="Shaistaganj" target="Sreemangal" id="368" />
+      <edge source="Shaistaganj" target="Akhaura" id="369" />
+      <edge source="Shaistaganj" target="Bhairab_Bazar" id="370" />
+      <edge source="Shaistaganj" target="Harashpur" id="371" />
+      <edge source="Nayapara" target="Azampur" id="372" />
+      <edge source="Nayapara" target="Montola" id="373" />
+      <edge source="Nayapara" target="Shaistaganj" id="374" />
+      <edge source="Nayapara" target="Harashpur" id="375" />
+      <edge source="Azampur" target="Brahmanbaria" id="376" />
+      <edge source="Azampur" target="Bhairab_Bazar" id="377" />
+      <edge source="Shahaji_Bazar" target="Nayapara" id="378" />
+      <edge source="Montola" target="Harashpur" id="379" />
+      <edge source="Harashpur" target="Mukundapur" id="380" />
+      <edge source="Harashpur" target="Nayapara" id="381" />
+      <edge source="Harashpur" target="Akhaura" id="382" />
+      <edge source="Harashpur" target="Azampur" id="383" />
+      <edge source="Mukundapur" target="Azampur" id="384" />
+      <edge source="Nangolkot" target="Laksam" id="385" />
+      <edge source="Nangolkot" target="Feni" id="386" />
+      <edge source="Nangolkot" target="Hasanpur" id="387" />
+      <edge source="Shamshernagar" target="Kulaura" id="388" />
+      <edge source="Shamshernagar" target="Bhanugach" id="389" />
+      <edge source="Shamshernagar" target="Sreemangal" id="390" />
+      <edge source="Baramchal" target="Maijgaon" id="391" />
+      <edge source="Baramchal" target="Kulaura" id="392" />
+      <edge source="Kumira" target="Chattogram" id="393" />
+      <edge source="Tarakandi" target="Sarishabari" id="394" />
+      <edge source="Tarakandi" target="Adv. Motiur Rahman" id="395" />
+      <edge source="Sarishabari" target="Kendua_Bazar" id="396" />
+      <edge source="Sarishabari" target="Jamalpur_Town" id="397" />
+      <edge source="Sarishabari" target="Tarakandi" id="398" />
+      <edge source="Kendua_Bazar" target="Jamalpur_Town" id="399" />
+      <edge source="Jamalpur_Town" target="Narundi" id="400" />
+      <edge source="Jamalpur_Town" target="Melandah_Bazar" id="401" />
+      <edge source="Jamalpur_Town" target="Nandina" id="402" />
+      <edge source="Jamalpur_Town" target="Piyarpur" id="403" />
+      <edge source="Jamalpur_Town" target="Jaforshahi" id="404" />
+      <edge source="Jamalpur_Town" target="Mymensingh" id="405" />
+      <edge source="Narundi" target="Mymensingh" id="406" />
+      <edge source="Narundi" target="Bidyaganj" id="407" />
+      <edge source="Narundi" target="Nandina" id="408" />
+      <edge source="Mymensingh" target="Gafargaon" id="409" />
+      <edge source="Mymensingh" target="Piyarpur" id="410" />
+      <edge source="Mymensingh" target="Gouripur_Myn" id="411" />
+      <edge source="Mymensingh" target="Bidyaganj" id="412" />
+      <edge source="Gafargaon" target="Biman_Bandar" id="413" />
+      <edge source="Gafargaon" target="Mymensingh" id="414" />
+      <edge source="Gafargaon" target="Sreepur" id="415" />
+      <edge source="Gafargaon" target="Dhaka" id="416" />
+      <edge source="Gafargaon" target="Joydebpur" id="417" />
+      <edge source="Piyarpur" target="Nandina" id="418" />
+      <edge source="Piyarpur" target="Mymensingh" id="419" />
+      <edge source="Piyarpur" target="Narundi" id="420" />
+      <edge source="Nandina" target="Jamalpur_Town" id="421" />
+      <edge source="Nandina" target="Piyarpur" id="422" />
+      <edge source="Melandah_Bazar" target="Islampur_Bazar" id="423" />
+      <edge source="Melandah_Bazar" target="Jamalpur_Town" id="424" />
+      <edge source="Islampur_Bazar" target="Dewanganj_Bazar" id="425" />
+      <edge source="Islampur_Bazar" target="Melandah_Bazar" id="426" />
+      <edge source="Dewanganj_Bazar" target="Islampur_Bazar" id="427" />
+      <edge source="Bidyaganj" target="Mymensingh" id="428" />
+      <edge source="Bidyaganj" target="Narundi" id="429" />
+      <edge source="Sreepur" target="Joydebpur" id="430" />
+      <edge source="Kishorganj" target="Gachihata" id="431" />
+      <edge source="Kishorganj" target="Sararchar" id="432" />
+      <edge source="Gachihata" target="Manikkhali" id="433" />
+      <edge source="Manikkhali" target="Sararchar" id="434" />
+      <edge source="Sararchar" target="Bajitpur" id="435" />
+      <edge source="Sararchar" target="Bhairab_Bazar" id="436" />
+      <edge source="Bajitpur" target="Kuliarchar" id="437" />
+      <edge source="Kuliarchar" target="Bhairab_Bazar" id="438" />
+      <edge source="Methikanda" target="Narsingdi" id="439" />
+      <edge source="Methikanda" target="Bhairab_Bazar" id="440" />
+      <edge source="Gouripur_Myn" target="Atharabari" id="441" />
+      <edge source="Gouripur_Myn" target="Mymensingh" id="442" />
+      <edge source="Atharabari" target="Kishorganj" id="443" />
+      <edge source="Bhatiary" target="Chattogram" id="444" />
+      <edge source="Jaforshahi" target="Sarishabari" id="445" />
+      <edge source="Adv. Motiur Rahman" target="Hemnagar" id="446" />
+      <edge source="Hemnagar" target="Bhuapur" id="447" />
+      <edge source="Bhuapur" target="Tarakandi" id="448" />
+      <edge source="Shashidal" target="Cumilla" id="449" />
+      <edge source="Hasanpur" target="Feni" id="450" />
+      <edge source="Chandpur" target="Chandpur_Court" id="451" />
+      <edge source="Chandpur_Court" target="Modhu_Road" id="452" />
+      <edge source="Modhu_Road" target="Hajiganj" id="453" />
+      <edge source="Hajiganj" target="Meher" id="454" />
+      <edge source="Meher" target="Chitoshi_Road" id="455" />
+      <edge source="Chitoshi_Road" target="Laksam" id="456" />
+      <edge source="Mohanganj" target="Barhatta" id="457" />
+      <edge source="Barhatta" target="Thakrokona" id="458" />
+      <edge source="Thakrokona" target="Netrakona" id="459" />
+      <edge source="Netrakona" target="Shyamgonj" id="460" />
+      <edge source="Shyamgonj" target="Gouripur_Myn" id="461" />
+      <edge source="Lokmanpur" target="Arani" id="462" />
+      <edge source="Lokmanpur" target="Abdulpur" id="463" />
+      <edge source="Rajshahi_Court" target="Kakonhat" id="464" />
+      <edge source="Rajshahi_Court" target="Rajshahi" id="465" />
+      <edge source="Amnura" target="Nachole" id="466" />
+      <edge source="Amnura" target="Lolitnagar" id="467" />
+      <edge source="Nachole" target="Rohanpur" id="468" />
+      <edge source="Nachole" target="Amnura" id="469" />
+      <edge source="Rohanpur" target="Nachole" id="470" />
+      <edge source="Cox's Bazar" target="Ramu" id="471" />
+      <edge source="Ramu" target="Dulahazara" id="472" />
+      <edge source="Dulahazara" target="Chakaria" id="473" />
+      <edge source="Chakaria" target="Satkania" id="474" />
+      <edge source="Satkania" target="Dohazari" id="475" />
+      <edge source="Dohazari" target="Patiya" id="476" />
+      <edge source="Patiya" target="Janali_Hat" id="477" />
+      <edge source="Janali_Hat" target="Sholoshohor" id="478" />
+      <edge source="Sholoshohor" target="Chattogram" id="479" />
+      <edge source="Nayaniburuj" target="Kismat" id="480" />
+      <edge source="Akhanagar" target="Thakurgaon_Road" id="481" />
+      <edge source="Sultanpur" target="Setabganj" id="482" />
+      <edge source="Mongalpur" target="Kanchan_Junction" id="483" />
+      <edge source="Kanchan_Junction" target="Dinajpur" id="484" />
+      <edge source="Kawgaon" target="Chirirbandar" id="485" />
+      <edge source="Manmathapur" target="Parbatipur" id="486" />
+    </edges>
+  </graph>
+</gexf>
