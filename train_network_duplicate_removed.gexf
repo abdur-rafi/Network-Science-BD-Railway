@@ -4,229 +4,1343 @@
     <creator>NetworkX 3.4.2</creator>
   </meta>
   <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="latitude" type="string" />
+      <attribute id="1" title="longitude" type="string" />
+    </attributes>
     <nodes>
-      <node id="Dhaka" label="Dhaka" />
-      <node id="Biman_Bandar" label="Biman_Bandar" />
-      <node id="BBSetu_E" label="BBSetu_E" />
-      <node id="Chatmohar" label="Chatmohar" />
-      <node id="Natore" label="Natore" />
-      <node id="Santahar" label="Santahar" />
-      <node id="Talora" label="Talora" />
-      <node id="Bogura" label="Bogura" />
-      <node id="Sonatola" label="Sonatola" />
-      <node id="Bonar_Para" label="Bonar_Para" />
-      <node id="Gaibandha" label="Gaibandha" />
-      <node id="Bamondanga" label="Bamondanga" />
-      <node id="Pirgacha" label="Pirgacha" />
-      <node id="Kaunia" label="Kaunia" />
-      <node id="Kurigram" label="Kurigram" />
-      <node id="Rangpur" label="Rangpur" />
-      <node id="Joydebpur" label="Joydebpur" />
-      <node id="Tangail" label="Tangail" />
-      <node id="SH M Monsur Ali" label="SH M Monsur Ali" />
-      <node id="Ullapara" label="Ullapara" />
-      <node id="Ishwardi Bypass" label="Ishwardi Bypass" />
-      <node id="Akkelpur" label="Akkelpur" />
-      <node id="Joypurhat" label="Joypurhat" />
-      <node id="Panchbibi" label="Panchbibi" />
-      <node id="Birampur" label="Birampur" />
-      <node id="Fulbari" label="Fulbari" />
-      <node id="Parbatipur" label="Parbatipur" />
-      <node id="Chirirbandar" label="Chirirbandar" />
-      <node id="Dinajpur" label="Dinajpur" />
-      <node id="Setabganj" label="Setabganj" />
-      <node id="Pirganj" label="Pirganj" />
-      <node id="Thakurgaon_Road" label="Thakurgaon_Road" />
-      <node id="Ruhia" label="Ruhia" />
-      <node id="Kismat" label="Kismat" />
-      <node id="B Sirajul Islam" label="B Sirajul Islam" />
-      <node id="Chilahati" label="Chilahati" />
-      <node id="Domar" label="Domar" />
-      <node id="Nilphamari" label="Nilphamari" />
-      <node id="Saidpur" label="Saidpur" />
-      <node id="Ahsanganj" label="Ahsanganj" />
-      <node id="Ishwardi" label="Ishwardi" />
-      <node id="Pakshi" label="Pakshi" />
-      <node id="Bheramara" label="Bheramara" />
-      <node id="Poradaha" label="Poradaha" />
-      <node id="Alamdanga" label="Alamdanga" />
-      <node id="Chuadanga" label="Chuadanga" />
-      <node id="Darshana_Halt" label="Darshana_Halt" />
-      <node id="Kotchandpur" label="Kotchandpur" />
-      <node id="Mubarakganj" label="Mubarakganj" />
-      <node id="Jashore" label="Jashore" />
-      <node id="Noapara" label="Noapara" />
-      <node id="Khulna" label="Khulna" />
-      <node id="Jamtail" label="Jamtail" />
-      <node id="Boral_Bridge" label="Boral_Bridge" />
-      <node id="Abdulpur" label="Abdulpur" />
-      <node id="Arani" label="Arani" />
-      <node id="Rajshahi" label="Rajshahi" />
-      <node id="Daulatpur" label="Daulatpur" />
-      <node id="Kushtia_Court" label="Kushtia_Court" />
-      <node id="Kumarkhali" label="Kumarkhali" />
-      <node id="Khoksha" label="Khoksha" />
-      <node id="Pangsha" label="Pangsha" />
-      <node id="Kalukhali" label="Kalukhali" />
-      <node id="Naliagram" label="Naliagram" />
-      <node id="Baharpur" label="Baharpur" />
-      <node id="Madhukhali" label="Madhukhali" />
-      <node id="Boalmari_Bazar" label="Boalmari_Bazar" />
-      <node id="Kashiani" label="Kashiani" />
-      <node id="Chapta" label="Chapta" />
-      <node id="Choto Bahirbag" label="Choto Bahirbag" />
-      <node id="Chandradighalia" label="Chandradighalia" />
-      <node id="Gopalganj" label="Gopalganj" />
-      <node id="Borashi" label="Borashi" />
-      <node id="Gobra" label="Gobra" />
-      <node id="Sardah_Road" label="Sardah_Road" />
-      <node id="Mirzapur" label="Mirzapur" />
-      <node id="Azim Nagar" label="Azim Nagar" />
-      <node id="Teesta_Junction" label="Teesta_Junction" />
-      <node id="Lalmonirhat" label="Lalmonirhat" />
-      <node id="Madhnagar" label="Madhnagar" />
-      <node id="Badarganj" label="Badarganj" />
-      <node id="Mirpur" label="Mirpur" />
-      <node id="Rajbari" label="Rajbari" />
-      <node id="Pachuria" label="Pachuria" />
-      <node id="Amirabad" label="Amirabad" />
-      <node id="Faridpur" label="Faridpur" />
-      <node id="Talma" label="Talma" />
-      <node id="Pukuria" label="Pukuria" />
-      <node id="Bhanga" label="Bhanga" />
-      <node id="Shibchar" label="Shibchar" />
-      <node id="Padma" label="Padma" />
-      <node id="Mawa" label="Mawa" />
-      <node id="Muladhuli" label="Muladhuli" />
-      <node id="Shibganj" label="Shibganj" />
-      <node id="Jhikargacha" label="Jhikargacha" />
-      <node id="Benapole" label="Benapole" />
-      <node id="Jamalganj" label="Jamalganj" />
-      <node id="Hili" label="Hili" />
-      <node id="Safdarpur" label="Safdarpur" />
-      <node id="Chapai Nawabganj" label="Chapai Nawabganj" />
-      <node id="Amnura_Bypass" label="Amnura_Bypass" />
-      <node id="Lolitnagar" label="Lolitnagar" />
-      <node id="Kakonhat" label="Kakonhat" />
-      <node id="Sitlai" label="Sitlai" />
-      <node id="Majhgram" label="Majhgram" />
-      <node id="Dashuria" label="Dashuria" />
-      <node id="Tebunia" label="Tebunia" />
-      <node id="Pabna" label="Pabna" />
-      <node id="Raghabpur" label="Raghabpur" />
-      <node id="Dublia" label="Dublia" />
-      <node id="Tantibandha" label="Tantibandha" />
-      <node id="Sathia_Rajapur" label="Sathia_Rajapur" />
-      <node id="Kashinathpur" label="Kashinathpur" />
-      <node id="Badherhat" label="Badherhat" />
-      <node id="Dhalarchar" label="Dhalarchar" />
-      <node id="Burimari" label="Burimari" />
-      <node id="Patgram" label="Patgram" />
-      <node id="Barkhata" label="Barkhata" />
-      <node id="Hatibandha" label="Hatibandha" />
-      <node id="Tushbhandar" label="Tushbhandar" />
-      <node id="Kankina" label="Kankina" />
-      <node id="Aditmari" label="Aditmari" />
-      <node id="Mahimaganj" label="Mahimaganj" />
-      <node id="Badiakhali" label="Badiakhali" />
-      <node id="Kholahati" label="Kholahati" />
-      <node id="Bhomradah" label="Bhomradah" />
-      <node id="Bhairab_Bazar" label="Bhairab_Bazar" />
-      <node id="Brahmanbaria" label="Brahmanbaria" />
-      <node id="Akhaura" label="Akhaura" />
-      <node id="Cumilla" label="Cumilla" />
-      <node id="Laksam" label="Laksam" />
-      <node id="Gunabati" label="Gunabati" />
-      <node id="Feni" label="Feni" />
-      <node id="Chattogram" label="Chattogram" />
-      <node id="Narsingdi" label="Narsingdi" />
-      <node id="Ashuganj" label="Ashuganj" />
-      <node id="Quasba" label="Quasba" />
-      <node id="Natherpetua" label="Natherpetua" />
-      <node id="Sonaimuri" label="Sonaimuri" />
-      <node id="Bajra" label="Bajra" />
-      <node id="Choumuhani" label="Choumuhani" />
-      <node id="Maijdi Court" label="Maijdi Court" />
-      <node id="Noakhali" label="Noakhali" />
-      <node id="Sylhet" label="Sylhet" />
-      <node id="Maijgaon" label="Maijgaon" />
-      <node id="Kulaura" label="Kulaura" />
-      <node id="Bhanugach" label="Bhanugach" />
-      <node id="Sreemangal" label="Sreemangal" />
-      <node id="Shaistaganj" label="Shaistaganj" />
-      <node id="Nayapara" label="Nayapara" />
-      <node id="Azampur" label="Azampur" />
-      <node id="Shahaji_Bazar" label="Shahaji_Bazar" />
-      <node id="Montola" label="Montola" />
-      <node id="Harashpur" label="Harashpur" />
-      <node id="Mukundapur" label="Mukundapur" />
-      <node id="Nangolkot" label="Nangolkot" />
-      <node id="Shamshernagar" label="Shamshernagar" />
-      <node id="Baramchal" label="Baramchal" />
-      <node id="Kumira" label="Kumira" />
-      <node id="Tarakandi" label="Tarakandi" />
-      <node id="Sarishabari" label="Sarishabari" />
-      <node id="Kendua_Bazar" label="Kendua_Bazar" />
-      <node id="Jamalpur_Town" label="Jamalpur_Town" />
-      <node id="Narundi" label="Narundi" />
-      <node id="Mymensingh" label="Mymensingh" />
-      <node id="Gafargaon" label="Gafargaon" />
-      <node id="Piyarpur" label="Piyarpur" />
-      <node id="Nandina" label="Nandina" />
-      <node id="Melandah_Bazar" label="Melandah_Bazar" />
-      <node id="Islampur_Bazar" label="Islampur_Bazar" />
-      <node id="Dewanganj_Bazar" label="Dewanganj_Bazar" />
-      <node id="Bidyaganj" label="Bidyaganj" />
-      <node id="Sreepur" label="Sreepur" />
-      <node id="Kishorganj" label="Kishorganj" />
-      <node id="Gachihata" label="Gachihata" />
-      <node id="Manikkhali" label="Manikkhali" />
-      <node id="Sararchar" label="Sararchar" />
-      <node id="Bajitpur" label="Bajitpur" />
-      <node id="Kuliarchar" label="Kuliarchar" />
-      <node id="Methikanda" label="Methikanda" />
-      <node id="Gouripur_Myn" label="Gouripur_Myn" />
-      <node id="Atharabari" label="Atharabari" />
-      <node id="Bhatiary" label="Bhatiary" />
-      <node id="Jaforshahi" label="Jaforshahi" />
-      <node id="Adv. Motiur Rahman" label="Adv. Motiur Rahman" />
-      <node id="Hemnagar" label="Hemnagar" />
-      <node id="Bhuapur" label="Bhuapur" />
-      <node id="Shashidal" label="Shashidal" />
-      <node id="Hasanpur" label="Hasanpur" />
-      <node id="Chandpur" label="Chandpur" />
-      <node id="Chandpur_Court" label="Chandpur_Court" />
-      <node id="Modhu_Road" label="Modhu_Road" />
-      <node id="Hajiganj" label="Hajiganj" />
-      <node id="Meher" label="Meher" />
-      <node id="Chitoshi_Road" label="Chitoshi_Road" />
-      <node id="Mohanganj" label="Mohanganj" />
-      <node id="Barhatta" label="Barhatta" />
-      <node id="Thakrokona" label="Thakrokona" />
-      <node id="Netrakona" label="Netrakona" />
-      <node id="Shyamgonj" label="Shyamgonj" />
-      <node id="Lokmanpur" label="Lokmanpur" />
-      <node id="Rajshahi_Court" label="Rajshahi_Court" />
-      <node id="Amnura" label="Amnura" />
-      <node id="Nachole" label="Nachole" />
-      <node id="Rohanpur" label="Rohanpur" />
-      <node id="Narayanganj" label="Narayanganj" />
-      <node id="Cox's Bazar" label="Cox's Bazar" />
-      <node id="Ramu" label="Ramu" />
-      <node id="Dulahazara" label="Dulahazara" />
-      <node id="Chakaria" label="Chakaria" />
-      <node id="Satkania" label="Satkania" />
-      <node id="Dohazari" label="Dohazari" />
-      <node id="Patiya" label="Patiya" />
-      <node id="Janali_Hat" label="Janali_Hat" />
-      <node id="Sholoshohor" label="Sholoshohor" />
-      <node id="Nayaniburuj" label="Nayaniburuj" />
-      <node id="Akhanagar" label="Akhanagar" />
-      <node id="Sultanpur" label="Sultanpur" />
-      <node id="Mongalpur" label="Mongalpur" />
-      <node id="Kanchan_Junction" label="Kanchan_Junction" />
-      <node id="Kawgaon" label="Kawgaon" />
-      <node id="Manmathapur" label="Manmathapur" />
+      <node id="Dhaka" label="Dhaka">
+        <attvalues>
+          <attvalue for="0" value="23.7319228" />
+          <attvalue for="1" value="90.3966615" />
+        </attvalues>
+      </node>
+      <node id="Biman_Bandar" label="Biman_Bandar">
+        <attvalues>
+          <attvalue for="0" value="23.852173" />
+          <attvalue for="1" value="90.408248" />
+        </attvalues>
+      </node>
+      <node id="BBSetu_E" label="BBSetu_E">
+        <attvalues>
+          <attvalue for="0" value="24.395839" />
+          <attvalue for="1" value=" 89.733521" />
+        </attvalues>
+      </node>
+      <node id="Chatmohar" label="Chatmohar">
+        <attvalues>
+          <attvalue for="0" value="24.1887526" />
+          <attvalue for="1" value="89.2755732" />
+        </attvalues>
+      </node>
+      <node id="Natore" label="Natore">
+        <attvalues>
+          <attvalue for="0" value="24.41081305" />
+          <attvalue for="1" value="88.96658965" />
+        </attvalues>
+      </node>
+      <node id="Santahar" label="Santahar">
+        <attvalues>
+          <attvalue for="0" value="24.8059735" />
+          <attvalue for="1" value="88.9860399" />
+        </attvalues>
+      </node>
+      <node id="Talora" label="Talora">
+        <attvalues>
+          <attvalue for="0" value="24.8237871" />
+          <attvalue for="1" value="89.1785781" />
+        </attvalues>
+      </node>
+      <node id="Bogura" label="Bogura">
+        <attvalues>
+          <attvalue for="0" value="24.8485692" />
+          <attvalue for="1" value="89.3666678" />
+        </attvalues>
+      </node>
+      <node id="Sonatola" label="Sonatola">
+        <attvalues>
+          <attvalue for="0" value="25.040864" />
+          <attvalue for="1" value=" 89.497644" />
+        </attvalues>
+      </node>
+      <node id="Bonar_Para" label="Bonar_Para">
+        <attvalues>
+          <attvalue for="0" value="25.165736" />
+          <attvalue for="1" value=" 89.523663" />
+        </attvalues>
+      </node>
+      <node id="Gaibandha" label="Gaibandha">
+        <attvalues>
+          <attvalue for="0" value="25.3323091" />
+          <attvalue for="1" value="89.542466" />
+        </attvalues>
+      </node>
+      <node id="Bamondanga" label="Bamondanga">
+        <attvalues>
+          <attvalue for="0" value="25.533746" />
+          <attvalue for="1" value="89.4456638" />
+        </attvalues>
+      </node>
+      <node id="Pirgacha" label="Pirgacha">
+        <attvalues>
+          <attvalue for="0" value="25.6593276" />
+          <attvalue for="1" value="89.407802" />
+        </attvalues>
+      </node>
+      <node id="Kaunia" label="Kaunia">
+        <attvalues>
+          <attvalue for="0" value="25.7777897" />
+          <attvalue for="1" value="89.4236255" />
+        </attvalues>
+      </node>
+      <node id="Kurigram" label="Kurigram">
+        <attvalues>
+          <attvalue for="0" value="25.8075574" />
+          <attvalue for="1" value="89.6212955" />
+        </attvalues>
+      </node>
+      <node id="Rangpur" label="Rangpur">
+        <attvalues>
+          <attvalue for="0" value="25.7284973" />
+          <attvalue for="1" value="89.2634621" />
+        </attvalues>
+      </node>
+      <node id="Joypurhat" label="Joypurhat">
+        <attvalues>
+          <attvalue for="0" value="25.098996" />
+          <attvalue for="1" value="89.0260363" />
+        </attvalues>
+      </node>
+      <node id="Parbatipur" label="Parbatipur">
+        <attvalues>
+          <attvalue for="0" value="25.6532156" />
+          <attvalue for="1" value="88.915503" />
+        </attvalues>
+      </node>
+      <node id="Dinajpur" label="Dinajpur">
+        <attvalues>
+          <attvalue for="0" value="25.6249608" />
+          <attvalue for="1" value="88.632424" />
+        </attvalues>
+      </node>
+      <node id="Pirganj" label="Pirganj">
+        <attvalues>
+          <attvalue for="0" value="25.859262" />
+          <attvalue for="1" value="88.3578266" />
+        </attvalues>
+      </node>
+      <node id="Thakurgaon_Road" label="Thakurgaon_Road">
+        <attvalues>
+          <attvalue for="0" value="26.040901" />
+          <attvalue for="1" value=" 88.426682" />
+        </attvalues>
+      </node>
+      <node id="B Sirajul Islam" label="B Sirajul Islam">
+        <attvalues>
+          <attvalue for="0" value="26.326546870462778" />
+          <attvalue for="1" value=" 88.5357496953235" />
+        </attvalues>
+      </node>
+      <node id="Joydebpur" label="Joydebpur">
+        <attvalues>
+          <attvalue for="0" value="23.997882" />
+          <attvalue for="1" value="90.4200786" />
+        </attvalues>
+      </node>
+      <node id="Tangail" label="Tangail">
+        <attvalues>
+          <attvalue for="0" value="24.2738464" />
+          <attvalue for="1" value="89.9377198" />
+        </attvalues>
+      </node>
+      <node id="SH M Monsur Ali" label="SH M Monsur Ali">
+        <attvalues>
+          <attvalue for="0" value="24.397289" />
+          <attvalue for="1" value=" 89.690104" />
+        </attvalues>
+      </node>
+      <node id="Ullapara" label="Ullapara">
+        <attvalues>
+          <attvalue for="0" value="24.290268" />
+          <attvalue for="1" value=" 89.570837" />
+        </attvalues>
+      </node>
+      <node id="Ishwardi Bypass" label="Ishwardi Bypass">
+        <attvalues>
+          <attvalue for="0" value="24.1550637" />
+          <attvalue for="1" value="89.0574975" />
+        </attvalues>
+      </node>
+      <node id="Akkelpur" label="Akkelpur">
+        <attvalues>
+          <attvalue for="0" value="24.9645943" />
+          <attvalue for="1" value="89.0157574" />
+        </attvalues>
+      </node>
+      <node id="Panchbibi" label="Panchbibi">
+        <attvalues>
+          <attvalue for="0" value="25.1885176" />
+          <attvalue for="1" value="89.0215654" />
+        </attvalues>
+      </node>
+      <node id="Birampur" label="Birampur">
+        <attvalues>
+          <attvalue for="0" value="25.3979257" />
+          <attvalue for="1" value="88.9940017" />
+        </attvalues>
+      </node>
+      <node id="Fulbari" label="Fulbari">
+        <attvalues>
+          <attvalue for="0" value="25.4954304" />
+          <attvalue for="1" value="88.968885" />
+        </attvalues>
+      </node>
+      <node id="Chirirbandar" label="Chirirbandar">
+        <attvalues>
+          <attvalue for="0" value="25.6458795" />
+          <attvalue for="1" value="88.7758409" />
+        </attvalues>
+      </node>
+      <node id="Setabganj" label="Setabganj">
+        <attvalues>
+          <attvalue for="0" value="25.798077" />
+          <attvalue for="1" value=" 88.461754" />
+        </attvalues>
+      </node>
+      <node id="Ruhia" label="Ruhia">
+        <attvalues>
+          <attvalue for="0" value="26.158179" />
+          <attvalue for="1" value="88.3975246" />
+        </attvalues>
+      </node>
+      <node id="Kismat" label="Kismat">
+        <attvalues>
+          <attvalue for="0" value="26.2208009" />
+          <attvalue for="1" value="88.4459969 " />
+        </attvalues>
+      </node>
+      <node id="Khulna" label="Khulna">
+        <attvalues>
+          <attvalue for="0" value="22.82038645" />
+          <attvalue for="1" value="89.55792900173348" />
+        </attvalues>
+      </node>
+      <node id="Noapara" label="Noapara">
+        <attvalues>
+          <attvalue for="0" value="23.0332329" />
+          <attvalue for="1" value="89.39524326516693" />
+        </attvalues>
+      </node>
+      <node id="Jashore" label="Jashore">
+        <attvalues>
+          <attvalue for="0" value="23.154645" />
+          <attvalue for="1" value=" 89.207637" />
+        </attvalues>
+      </node>
+      <node id="Mubarakganj" label="Mubarakganj">
+        <attvalues>
+          <attvalue for="0" value="23.4004363" />
+          <attvalue for="1" value="89.1244465" />
+        </attvalues>
+      </node>
+      <node id="Kotchandpur" label="Kotchandpur">
+        <attvalues>
+          <attvalue for="0" value="23.4156897" />
+          <attvalue for="1" value="89.0134161" />
+        </attvalues>
+      </node>
+      <node id="Darshana_Halt" label="Darshana_Halt">
+        <attvalues>
+          <attvalue for="0" value="23.526468" />
+          <attvalue for="1" value=" 88.796954" />
+        </attvalues>
+      </node>
+      <node id="Chuadanga" label="Chuadanga">
+        <attvalues>
+          <attvalue for="0" value="23.6380381" />
+          <attvalue for="1" value="88.8546283" />
+        </attvalues>
+      </node>
+      <node id="Alamdanga" label="Alamdanga">
+        <attvalues>
+          <attvalue for="0" value="23.7614107" />
+          <attvalue for="1" value="88.93651" />
+        </attvalues>
+      </node>
+      <node id="Poradaha" label="Poradaha">
+        <attvalues>
+          <attvalue for="0" value="23.8640867" />
+          <attvalue for="1" value="89.0316196" />
+        </attvalues>
+      </node>
+      <node id="Bheramara" label="Bheramara">
+        <attvalues>
+          <attvalue for="0" value="24.0232047" />
+          <attvalue for="1" value="88.9918668" />
+        </attvalues>
+      </node>
+      <node id="Pakshi" label="Pakshi">
+        <attvalues>
+          <attvalue for="0" value="24.070877" />
+          <attvalue for="1" value="89.0406856" />
+        </attvalues>
+      </node>
+      <node id="Ishwardi" label="Ishwardi">
+        <attvalues>
+          <attvalue for="0" value="24.1302365" />
+          <attvalue for="1" value="89.0627406" />
+        </attvalues>
+      </node>
+      <node id="Ahsanganj" label="Ahsanganj">
+        <attvalues>
+          <attvalue for="0" value="25.5717331" />
+          <attvalue for="1" value="89.4299767" />
+        </attvalues>
+      </node>
+      <node id="Saidpur" label="Saidpur">
+        <attvalues>
+          <attvalue for="0" value="25.7870289" />
+          <attvalue for="1" value="88.8931484" />
+        </attvalues>
+      </node>
+      <node id="Nilphamari" label="Nilphamari">
+        <attvalues>
+          <attvalue for="0" value="25.9490764" />
+          <attvalue for="1" value="88.8358417" />
+        </attvalues>
+      </node>
+      <node id="Domar" label="Domar">
+        <attvalues>
+          <attvalue for="0" value="26.1046376" />
+          <attvalue for="1" value="88.8199769" />
+        </attvalues>
+      </node>
+      <node id="Chilahati" label="Chilahati">
+        <attvalues>
+          <attvalue for="0" value="26.2431402" />
+          <attvalue for="1" value="88.7963052" />
+        </attvalues>
+      </node>
+      <node id="Jamtail" label="Jamtail">
+        <attvalues>
+          <attvalue for="0" value="24.3612687" />
+          <attvalue for="1" value="89.6604338" />
+        </attvalues>
+      </node>
+      <node id="Boral_Bridge" label="Boral_Bridge">
+        <attvalues>
+          <attvalue for="0" value="24.214958" />
+          <attvalue for="1" value="89.3808543" />
+        </attvalues>
+      </node>
+      <node id="Abdulpur" label="Abdulpur">
+        <attvalues>
+          <attvalue for="0" value="24.2598727" />
+          <attvalue for="1" value="88.971789" />
+        </attvalues>
+      </node>
+      <node id="Arani" label="Arani">
+        <attvalues>
+          <attvalue for="0" value="24.2897643" />
+          <attvalue for="1" value="88.8825729" />
+        </attvalues>
+      </node>
+      <node id="Rajshahi" label="Rajshahi">
+        <attvalues>
+          <attvalue for="0" value="24.375032349999998" />
+          <attvalue for="1" value="88.60854140477822" />
+        </attvalues>
+      </node>
+      <node id="Daulatpur" label="Daulatpur">
+        <attvalues>
+          <attvalue for="0" value="22.8766319" />
+          <attvalue for="1" value="89.522307" />
+        </attvalues>
+      </node>
+      <node id="Gobra" label="Gobra">
+        <attvalues>
+          <attvalue for="0" value="22.9479095" />
+          <attvalue for="1" value="89.8290566" />
+        </attvalues>
+      </node>
+      <node id="Borashi" label="Borashi">
+        <attvalues>
+          <attvalue for="0" value="22.9949044" />
+          <attvalue for="1" value="89.8426335" />
+        </attvalues>
+      </node>
+      <node id="Gopalganj" label="Gopalganj">
+        <attvalues>
+          <attvalue for="0" value="23.03408" />
+          <attvalue for="1" value="89.8401059" />
+        </attvalues>
+      </node>
+      <node id="Chandradighalia" label="Chandradighalia">
+        <attvalues>
+          <attvalue for="0" value="23.0735283" />
+          <attvalue for="1" value="89.7768778" />
+        </attvalues>
+      </node>
+      <node id="Choto Bahirbag" label="Choto Bahirbag">
+        <attvalues>
+          <attvalue for="0" value="23.1408061" />
+          <attvalue for="1" value="89.7817216" />
+        </attvalues>
+      </node>
+      <node id="Chapta" label="Chapta">
+        <attvalues>
+          <attvalue for="0" value="23.1978933" />
+          <attvalue for="1" value="89.7520757" />
+        </attvalues>
+      </node>
+      <node id="Kashiani" label="Kashiani">
+        <attvalues>
+          <attvalue for="0" value="23.2334792" />
+          <attvalue for="1" value="89.7250801" />
+        </attvalues>
+      </node>
+      <node id="Boalmari_Bazar" label="Boalmari_Bazar">
+        <attvalues>
+          <attvalue for="0" value="23.389826" />
+          <attvalue for="1" value=" 89.687673" />
+        </attvalues>
+      </node>
+      <node id="Madhukhali" label="Madhukhali">
+        <attvalues>
+          <attvalue for="0" value="23.5467521" />
+          <attvalue for="1" value="89.6307076" />
+        </attvalues>
+      </node>
+      <node id="Baharpur" label="Baharpur">
+        <attvalues>
+          <attvalue for="0" value="23.6863795" />
+          <attvalue for="1" value="89.5615165" />
+        </attvalues>
+      </node>
+      <node id="Kalukhali" label="Kalukhali">
+        <attvalues>
+          <attvalue for="0" value="23.7681463" />
+          <attvalue for="1" value="89.4804096" />
+        </attvalues>
+      </node>
+      <node id="Pangsha" label="Pangsha">
+        <attvalues>
+          <attvalue for="0" value="23.7861527" />
+          <attvalue for="1" value="89.4171519" />
+        </attvalues>
+      </node>
+      <node id="Khoksha" label="Khoksha">
+        <attvalues>
+          <attvalue for="0" value="23.8308846" />
+          <attvalue for="1" value="89.3029737" />
+        </attvalues>
+      </node>
+      <node id="Kumarkhali" label="Kumarkhali">
+        <attvalues>
+          <attvalue for="0" value="23.8605756" />
+          <attvalue for="1" value="89.2410244" />
+        </attvalues>
+      </node>
+      <node id="Kushtia_Court" label="Kushtia_Court">
+        <attvalues>
+          <attvalue for="0" value="23.9070671" />
+          <attvalue for="1" value="89.1282874" />
+        </attvalues>
+      </node>
+      <node id="Naliagram" label="Naliagram">
+        <attvalues>
+          <attvalue for="0" value="23.6025242" />
+          <attvalue for="1" value="89.6056352" />
+        </attvalues>
+      </node>
+      <node id="Sardah_Road" label="Sardah_Road">
+        <attvalues>
+          <attvalue for="0" value="24.337185" />
+          <attvalue for="1" value=" 88.752381" />
+        </attvalues>
+      </node>
+      <node id="Mirzapur" label="Mirzapur">
+        <attvalues>
+          <attvalue for="0" value="24.1055318" />
+          <attvalue for="1" value="90.1014131" />
+        </attvalues>
+      </node>
+      <node id="Azim Nagar" label="Azim Nagar">
+        <attvalues>
+          <attvalue for="0" value="24.2065543" />
+          <attvalue for="1" value="89.0059185" />
+        </attvalues>
+      </node>
+      <node id="Teesta_Junction" label="Teesta_Junction">
+        <attvalues>
+          <attvalue for="0" value="25.808543" />
+          <attvalue for="1" value=" 89.440789" />
+        </attvalues>
+      </node>
+      <node id="Lalmonirhat" label="Lalmonirhat">
+        <attvalues>
+          <attvalue for="0" value="25.911585000000002" />
+          <attvalue for="1" value="89.44483890738553" />
+        </attvalues>
+      </node>
+      <node id="Madhnagar" label="Madhnagar">
+        <attvalues>
+          <attvalue for="0" value="24.5026199" />
+          <attvalue for="1" value="88.9599207" />
+        </attvalues>
+      </node>
+      <node id="Badarganj" label="Badarganj">
+        <attvalues>
+          <attvalue for="0" value="25.7071259" />
+          <attvalue for="1" value="89.1808277" />
+        </attvalues>
+      </node>
+      <node id="Mawa" label="Mawa">
+        <attvalues>
+          <attvalue for="0" value="23.5375399" />
+          <attvalue for="1" value="90.2913785" />
+        </attvalues>
+      </node>
+      <node id="Padma" label="Padma">
+        <attvalues>
+          <attvalue for="0" value="23.4116142" />
+          <attvalue for="1" value="90.2573015" />
+        </attvalues>
+      </node>
+      <node id="Shibchar" label="Shibchar">
+        <attvalues>
+          <attvalue for="0" value="23.3983671" />
+          <attvalue for="1" value="90.2188185" />
+        </attvalues>
+      </node>
+      <node id="Bhanga" label="Bhanga">
+        <attvalues>
+          <attvalue for="0" value="23.4004807" />
+          <attvalue for="1" value="89.9844964" />
+        </attvalues>
+      </node>
+      <node id="Pukuria" label="Pukuria">
+        <attvalues>
+          <attvalue for="0" value="23.4424507" />
+          <attvalue for="1" value="89.9573489" />
+        </attvalues>
+      </node>
+      <node id="Talma" label="Talma">
+        <attvalues>
+          <attvalue for="0" value="23.4902665" />
+          <attvalue for="1" value="89.8766674" />
+        </attvalues>
+      </node>
+      <node id="Faridpur" label="Faridpur">
+        <attvalues>
+          <attvalue for="0" value="23.6108764" />
+          <attvalue for="1" value="89.8426903" />
+        </attvalues>
+      </node>
+      <node id="Amirabad" label="Amirabad">
+        <attvalues>
+          <attvalue for="0" value="23.6396538" />
+          <attvalue for="1" value="89.7442869" />
+        </attvalues>
+      </node>
+      <node id="Pachuria" label="Pachuria">
+        <attvalues>
+          <attvalue for="0" value="23.7478822" />
+          <attvalue for="1" value="89.7108993" />
+        </attvalues>
+      </node>
+      <node id="Rajbari" label="Rajbari">
+        <attvalues>
+          <attvalue for="0" value="23.762880187010023" />
+          <attvalue for="1" value=" 89.64514228882118" />
+        </attvalues>
+      </node>
+      <node id="Mirpur" label="Mirpur">
+        <attvalues>
+          <attvalue for="0" value="23.8083649" />
+          <attvalue for="1" value="90.3682614" />
+        </attvalues>
+      </node>
+      <node id="Muladhuli" label="Muladhuli">
+        <attvalues>
+          <attvalue for="0" value="24.1638224" />
+          <attvalue for="1" value="89.1432797" />
+        </attvalues>
+      </node>
+      <node id="Safdarpur" label="Safdarpur">
+        <attvalues>
+          <attvalue for="0" value="23.4624102" />
+          <attvalue for="1" value="88.9614488" />
+        </attvalues>
+      </node>
+      <node id="Shibganj" label="Shibganj">
+        <attvalues>
+          <attvalue for="0" value="25.995300" />
+          <attvalue for="1" value=" 88.402325" />
+        </attvalues>
+      </node>
+      <node id="Benapole" label="Benapole">
+        <attvalues>
+          <attvalue for="0" value="23.0430994" />
+          <attvalue for="1" value="88.9027779" />
+        </attvalues>
+      </node>
+      <node id="Jhikargacha" label="Jhikargacha">
+        <attvalues>
+          <attvalue for="0" value="23.099104" />
+          <attvalue for="1" value=" 89.100657" />
+        </attvalues>
+      </node>
+      <node id="Jamalganj" label="Jamalganj">
+        <attvalues>
+          <attvalue for="0" value="25.0305229" />
+          <attvalue for="1" value="89.0219499" />
+        </attvalues>
+      </node>
+      <node id="Hili" label="Hili">
+        <attvalues>
+          <attvalue for="0" value="25.277513" />
+          <attvalue for="1" value="89.0069924" />
+        </attvalues>
+      </node>
+      <node id="Dhalarchar" label="Dhalarchar">
+        <attvalues>
+          <attvalue for="0" value="23.8348143" />
+          <attvalue for="1" value="89.6712619" />
+        </attvalues>
+      </node>
+      <node id="Badherhat" label="Badherhat">
+        <attvalues>
+          <attvalue for="0" value="23.8974413" />
+          <attvalue for="1" value="89.6368003" />
+        </attvalues>
+      </node>
+      <node id="Kashinathpur" label="Kashinathpur">
+        <attvalues>
+          <attvalue for="0" value="23.9702362" />
+          <attvalue for="1" value="89.5897317" />
+        </attvalues>
+      </node>
+      <node id="Sathia_Rajapur" label="Sathia_Rajapur">
+        <attvalues>
+          <attvalue for="0" value="23.972683998543346" />
+          <attvalue for="1" value=" 89.48652060816765" />
+        </attvalues>
+      </node>
+      <node id="Tantibandha" label="Tantibandha">
+        <attvalues>
+          <attvalue for="0" value="26.1283375" />
+          <attvalue for="1" value="89.1386051" />
+        </attvalues>
+      </node>
+      <node id="Dublia" label="Dublia">
+        <attvalues>
+          <attvalue for="0" value="23.9777286" />
+          <attvalue for="1" value="89.3681489" />
+        </attvalues>
+      </node>
+      <node id="Raghabpur" label="Raghabpur">
+        <attvalues>
+          <attvalue for="0" value="23.9953261" />
+          <attvalue for="1" value="89.3042279" />
+        </attvalues>
+      </node>
+      <node id="Pabna" label="Pabna">
+        <attvalues>
+          <attvalue for="0" value="24.0159984" />
+          <attvalue for="1" value="89.2561065" />
+        </attvalues>
+      </node>
+      <node id="Tebunia" label="Tebunia">
+        <attvalues>
+          <attvalue for="0" value="24.0740651" />
+          <attvalue for="1" value="89.2061351" />
+        </attvalues>
+      </node>
+      <node id="Dashuria" label="Dashuria">
+        <attvalues>
+          <attvalue for="0" value="24.1126858" />
+          <attvalue for="1" value="89.130372" />
+        </attvalues>
+      </node>
+      <node id="Majhgram" label="Majhgram">
+        <attvalues>
+          <attvalue for="0" value="24.1627166" />
+          <attvalue for="1" value="89.0940227" />
+        </attvalues>
+      </node>
+      <node id="Sitlai" label="Sitlai">
+        <attvalues>
+          <attvalue for="0" value="24.42140957247162" />
+          <attvalue for="1" value=" 88.52693118390665" />
+        </attvalues>
+      </node>
+      <node id="Kakonhat" label="Kakonhat">
+        <attvalues>
+          <attvalue for="0" value="24.507007483455165" />
+          <attvalue for="1" value=" 88.47161642674972" />
+        </attvalues>
+      </node>
+      <node id="Lolitnagar" label="Lolitnagar">
+        <attvalues>
+          <attvalue for="0" value="24.562795224725292" />
+          <attvalue for="1" value=" 88.43494175311966" />
+        </attvalues>
+      </node>
+      <node id="Amnura_Bypass" label="Amnura_Bypass">
+        <attvalues>
+          <attvalue for="0" value="24.6151297" />
+          <attvalue for="1" value="88.3955117" />
+        </attvalues>
+      </node>
+      <node id="Chapai Nawabganj" label="Chapai Nawabganj">
+        <attvalues>
+          <attvalue for="0" value="24.598882903270816" />
+          <attvalue for="1" value=" 88.28043662351625" />
+        </attvalues>
+      </node>
+      <node id="Mahimaganj" label="Mahimaganj">
+        <attvalues>
+          <attvalue for="0" value="25.1044679" />
+          <attvalue for="1" value="89.4938063" />
+        </attvalues>
+      </node>
+      <node id="Aditmari" label="Aditmari">
+        <attvalues>
+          <attvalue for="0" value="25.92419175" />
+          <attvalue for="1" value="89.3487254893703" />
+        </attvalues>
+      </node>
+      <node id="Kankina" label="Kankina">
+        <attvalues>
+          <attvalue for="0" value="25.956043" />
+          <attvalue for="1" value="89.2416787" />
+        </attvalues>
+      </node>
+      <node id="Tushbhandar" label="Tushbhandar">
+        <attvalues>
+          <attvalue for="0" value="25.967162187489617" />
+          <attvalue for="1" value=" 89.20272154917323" />
+        </attvalues>
+      </node>
+      <node id="Hatibandha" label="Hatibandha">
+        <attvalues>
+          <attvalue for="0" value="26.12837245" />
+          <attvalue for="1" value="89.13843671853539" />
+        </attvalues>
+      </node>
+      <node id="Barkhata" label="Barkhata">
+        <attvalues>
+          <attvalue for="0" value="26.20238756255221" />
+          <attvalue for="1" value=" 89.11110629462206" />
+        </attvalues>
+      </node>
+      <node id="Patgram" label="Patgram">
+        <attvalues>
+          <attvalue for="0" value="26.3437585" />
+          <attvalue for="1" value="89.0213325" />
+        </attvalues>
+      </node>
+      <node id="Burimari" label="Burimari">
+        <attvalues>
+          <attvalue for="0" value="26.39613995" />
+          <attvalue for="1" value="88.9351197" />
+        </attvalues>
+      </node>
+      <node id="Bhomradah" label="Bhomradah">
+        <attvalues>
+          <attvalue for="0" value="25.933306" />
+          <attvalue for="1" value="88.36726" />
+        </attvalues>
+      </node>
+      <node id="Kholahati" label="Kholahati">
+        <attvalues>
+          <attvalue for="0" value="25.6564494" />
+          <attvalue for="1" value="88.9749473" />
+        </attvalues>
+      </node>
+      <node id="Badiakhali" label="Badiakhali">
+        <attvalues>
+          <attvalue for="0" value="25.235141" />
+          <attvalue for="1" value="89.542555" />
+        </attvalues>
+      </node>
+      <node id="Chattogram" label="Chattogram">
+        <attvalues>
+          <attvalue for="0" value="22.3340209" />
+          <attvalue for="1" value="91.8295576" />
+        </attvalues>
+      </node>
+      <node id="Feni" label="Feni">
+        <attvalues>
+          <attvalue for="0" value="23.0131035" />
+          <attvalue for="1" value="91.4031816" />
+        </attvalues>
+      </node>
+      <node id="Gunabati" label="Gunabati">
+        <attvalues>
+          <attvalue for="0" value="23.087594974325047" />
+          <attvalue for="1" value=" 91.29754216644658" />
+        </attvalues>
+      </node>
+      <node id="Laksam" label="Laksam">
+        <attvalues>
+          <attvalue for="0" value="23.254613" />
+          <attvalue for="1" value="91.12406" />
+        </attvalues>
+      </node>
+      <node id="Cumilla" label="Cumilla">
+        <attvalues>
+          <attvalue for="0" value="23.4636412" />
+          <attvalue for="1" value="91.1667328" />
+        </attvalues>
+      </node>
+      <node id="Akhaura" label="Akhaura">
+        <attvalues>
+          <attvalue for="0" value="23.8692316" />
+          <attvalue for="1" value="91.2060188" />
+        </attvalues>
+      </node>
+      <node id="Brahmanbaria" label="Brahmanbaria">
+        <attvalues>
+          <attvalue for="0" value="23.966689" />
+          <attvalue for="1" value="91.1090529" />
+        </attvalues>
+      </node>
+      <node id="Bhairab_Bazar" label="Bhairab_Bazar">
+        <attvalues>
+          <attvalue for="0" value="24.0502591" />
+          <attvalue for="1" value="90.9781951" />
+        </attvalues>
+      </node>
+      <node id="Gafargaon" label="Gafargaon">
+        <attvalues>
+          <attvalue for="0" value="24.4536308" />
+          <attvalue for="1" value="90.54785126380074" />
+        </attvalues>
+      </node>
+      <node id="Mymensingh" label="Mymensingh">
+        <attvalues>
+          <attvalue for="0" value="24.7532728" />
+          <attvalue for="1" value="90.4101031" />
+        </attvalues>
+      </node>
+      <node id="Piyarpur" label="Piyarpur">
+        <attvalues>
+          <attvalue for="0" value="24.8790798" />
+          <attvalue for="1" value="90.1966031" />
+        </attvalues>
+      </node>
+      <node id="Jamalpur_Town" label="Jamalpur_Town">
+        <attvalues>
+          <attvalue for="0" value="24.91474263081778" />
+          <attvalue for="1" value=" 89.95444667287731" />
+        </attvalues>
+      </node>
+      <node id="Melandah_Bazar" label="Melandah_Bazar">
+        <attvalues>
+          <attvalue for="0" value="24.97823105" />
+          <attvalue for="1" value="89.85348053701989" />
+        </attvalues>
+      </node>
+      <node id="Islampur_Bazar" label="Islampur_Bazar">
+        <attvalues>
+          <attvalue for="0" value="25.0778008" />
+          <attvalue for="1" value="89.7916227" />
+        </attvalues>
+      </node>
+      <node id="Dewanganj_Bazar" label="Dewanganj_Bazar">
+        <attvalues>
+          <attvalue for="0" value="25.156827137014258" />
+          <attvalue for="1" value=" 89.75623419213875" />
+        </attvalues>
+      </node>
+      <node id="Noakhali" label="Noakhali">
+        <attvalues>
+          <attvalue for="0" value="22.827615021193107" />
+          <attvalue for="1" value=" 91.10131306475628" />
+        </attvalues>
+      </node>
+      <node id="Maijdi Court" label="Maijdi Court">
+        <attvalues>
+          <attvalue for="0" value="22.8606549" />
+          <attvalue for="1" value="91.1049378" />
+        </attvalues>
+      </node>
+      <node id="Choumuhani" label="Choumuhani">
+        <attvalues>
+          <attvalue for="0" value="22.9439118" />
+          <attvalue for="1" value="91.1206903" />
+        </attvalues>
+      </node>
+      <node id="Bajra" label="Bajra">
+        <attvalues>
+          <attvalue for="0" value="22.9920794" />
+          <attvalue for="1" value="91.1006125" />
+        </attvalues>
+      </node>
+      <node id="Sonaimuri" label="Sonaimuri">
+        <attvalues>
+          <attvalue for="0" value="23.0440112" />
+          <attvalue for="1" value="91.0986423" />
+        </attvalues>
+      </node>
+      <node id="Natherpetua" label="Natherpetua">
+        <attvalues>
+          <attvalue for="0" value="23.113199950000002" />
+          <attvalue for="1" value="91.11541161158753" />
+        </attvalues>
+      </node>
+      <node id="Quasba" label="Quasba">
+        <attvalues>
+          <attvalue for="0" value="23.74006959178681" />
+          <attvalue for="1" value=" 91.15535789739945" />
+        </attvalues>
+      </node>
+      <node id="Ashuganj" label="Ashuganj">
+        <attvalues>
+          <attvalue for="0" value="24.0382393" />
+          <attvalue for="1" value="91.0016427" />
+        </attvalues>
+      </node>
+      <node id="Narsingdi" label="Narsingdi">
+        <attvalues>
+          <attvalue for="0" value="23.9308715" />
+          <attvalue for="1" value="90.7159738" />
+        </attvalues>
+      </node>
+      <node id="Azampur" label="Azampur">
+        <attvalues>
+          <attvalue for="0" value="23.8926482" />
+          <attvalue for="1" value="91.2207974" />
+        </attvalues>
+      </node>
+      <node id="Nayapara" label="Nayapara">
+        <attvalues>
+          <attvalue for="0" value="24.180788120867245" />
+          <attvalue for="1" value=" 91.35665761675486" />
+        </attvalues>
+      </node>
+      <node id="Shaistaganj" label="Shaistaganj">
+        <attvalues>
+          <attvalue for="0" value="24.27836435" />
+          <attvalue for="1" value="91.45038258629305" />
+        </attvalues>
+      </node>
+      <node id="Sreemangal" label="Sreemangal">
+        <attvalues>
+          <attvalue for="0" value="24.3066483" />
+          <attvalue for="1" value="91.7349843" />
+        </attvalues>
+      </node>
+      <node id="Bhanugach" label="Bhanugach">
+        <attvalues>
+          <attvalue for="0" value="24.3518279" />
+          <attvalue for="1" value="91.8415358" />
+        </attvalues>
+      </node>
+      <node id="Kulaura" label="Kulaura">
+        <attvalues>
+          <attvalue for="0" value="24.522794" />
+          <attvalue for="1" value="92.036618" />
+        </attvalues>
+      </node>
+      <node id="Maijgaon" label="Maijgaon">
+        <attvalues>
+          <attvalue for="0" value="24.6862621" />
+          <attvalue for="1" value="91.95166903068619" />
+        </attvalues>
+      </node>
+      <node id="Sylhet" label="Sylhet">
+        <attvalues>
+          <attvalue for="0" value="24.8817611" />
+          <attvalue for="1" value="91.8679883" />
+        </attvalues>
+      </node>
+      <node id="Mukundapur" label="Mukundapur">
+        <attvalues>
+          <attvalue for="0" value="23.9636205" />
+          <attvalue for="1" value="91.2645929" />
+        </attvalues>
+      </node>
+      <node id="Harashpur" label="Harashpur">
+        <attvalues>
+          <attvalue for="0" value="24.0166274" />
+          <attvalue for="1" value="91.3098775" />
+        </attvalues>
+      </node>
+      <node id="Montola" label="Montola">
+        <attvalues>
+          <attvalue for="0" value="24.069524343536038" />
+          <attvalue for="1" value=" 91.34504489269513" />
+        </attvalues>
+      </node>
+      <node id="Shahaji_Bazar" label="Shahaji_Bazar">
+        <attvalues>
+          <attvalue for="0" value="24.2527846" />
+          <attvalue for="1" value="91.3819186" />
+        </attvalues>
+      </node>
+      <node id="Nangolkot" label="Nangolkot">
+        <attvalues>
+          <attvalue for="0" value="23.1677702" />
+          <attvalue for="1" value="91.198695" />
+        </attvalues>
+      </node>
+      <node id="Shamshernagar" label="Shamshernagar">
+        <attvalues>
+          <attvalue for="0" value="24.382933" />
+          <attvalue for="1" value="91.9003337" />
+        </attvalues>
+      </node>
+      <node id="Baramchal" label="Baramchal">
+        <attvalues>
+          <attvalue for="0" value="24.587583" />
+          <attvalue for="1" value="91.9788533" />
+        </attvalues>
+      </node>
+      <node id="Kumira" label="Kumira">
+        <attvalues>
+          <attvalue for="0" value="22.5051698" />
+          <attvalue for="1" value="91.71581409601735" />
+        </attvalues>
+      </node>
+      <node id="Narundi" label="Narundi">
+        <attvalues>
+          <attvalue for="0" value="24.8650076" />
+          <attvalue for="1" value="90.1199339" />
+        </attvalues>
+      </node>
+      <node id="Kendua_Bazar" label="Kendua_Bazar">
+        <attvalues>
+          <attvalue for="0" value="24.8567246632941" />
+          <attvalue for="1" value=" 89.90679508698554" />
+        </attvalues>
+      </node>
+      <node id="Sarishabari" label="Sarishabari">
+        <attvalues>
+          <attvalue for="0" value="24.7608313" />
+          <attvalue for="1" value="89.8400644" />
+        </attvalues>
+      </node>
+      <node id="Tarakandi" label="Tarakandi">
+        <attvalues>
+          <attvalue for="0" value="24.6857189" />
+          <attvalue for="1" value="89.8243306" />
+        </attvalues>
+      </node>
+      <node id="Kuliarchar" label="Kuliarchar">
+        <attvalues>
+          <attvalue for="0" value="24.1510023" />
+          <attvalue for="1" value="90.9286747" />
+        </attvalues>
+      </node>
+      <node id="Bajitpur" label="Bajitpur">
+        <attvalues>
+          <attvalue for="0" value="24.1997228" />
+          <attvalue for="1" value="90.9130239" />
+        </attvalues>
+      </node>
+      <node id="Sararchar" label="Sararchar">
+        <attvalues>
+          <attvalue for="0" value="24.21847975" />
+          <attvalue for="1" value="90.90086623532832" />
+        </attvalues>
+      </node>
+      <node id="Manikkhali" label="Manikkhali">
+        <attvalues>
+          <attvalue for="0" value="24.297385" />
+          <attvalue for="1" value=" 90.846645" />
+        </attvalues>
+      </node>
+      <node id="Gachihata" label="Gachihata">
+        <attvalues>
+          <attvalue for="0" value="24.3419288" />
+          <attvalue for="1" value="90.8245692" />
+        </attvalues>
+      </node>
+      <node id="Kishorganj" label="Kishorganj">
+        <attvalues>
+          <attvalue for="0" value="24.426237" />
+          <attvalue for="1" value="90.788457" />
+        </attvalues>
+      </node>
+      <node id="Methikanda" label="Methikanda">
+        <attvalues>
+          <attvalue for="0" value="23.9925823" />
+          <attvalue for="1" value="90.8670217" />
+        </attvalues>
+      </node>
+      <node id="Nandina" label="Nandina">
+        <attvalues>
+          <attvalue for="0" value="24.8677052" />
+          <attvalue for="1" value="90.035903" />
+        </attvalues>
+      </node>
+      <node id="Sreepur" label="Sreepur">
+        <attvalues>
+          <attvalue for="0" value="24.1989858" />
+          <attvalue for="1" value="90.4795567" />
+        </attvalues>
+      </node>
+      <node id="Bidyaganj" label="Bidyaganj">
+        <attvalues>
+          <attvalue for="0" value="24.82404368063134" />
+          <attvalue for="1" value=" 90.25936116344892" />
+        </attvalues>
+      </node>
+      <node id="Bhatiary" label="Bhatiary">
+        <attvalues>
+          <attvalue for="0" value="22.4299733" />
+          <attvalue for="1" value="91.7488463" />
+        </attvalues>
+      </node>
+      <node id="Atharabari" label="Atharabari">
+        <attvalues>
+          <attvalue for="0" value="24.640974974401882" />
+          <attvalue for="1" value=" 90.713150212425" />
+        </attvalues>
+      </node>
+      <node id="Gouripur_Myn" label="Gouripur_Myn">
+        <attvalues>
+          <attvalue for="0" value="24.764154" />
+          <attvalue for="1" value="90.565774" />
+        </attvalues>
+      </node>
+      <node id="Shyamgonj" label="Shyamgonj">
+        <attvalues>
+          <attvalue for="0" value="24.838291" />
+          <attvalue for="1" value=" 90.579356" />
+        </attvalues>
+      </node>
+      <node id="Netrakona" label="Netrakona">
+        <attvalues>
+          <attvalue for="0" value="24.887376" />
+          <attvalue for="1" value=" 90.731261" />
+        </attvalues>
+      </node>
+      <node id="Thakrokona" label="Thakrokona">
+        <attvalues>
+          <attvalue for="0" value="24.907338850000002" />
+          <attvalue for="1" value="90.81782023802404" />
+        </attvalues>
+      </node>
+      <node id="Barhatta" label="Barhatta">
+        <attvalues>
+          <attvalue for="0" value="24.897760" />
+          <attvalue for="1" value=" 90.881536" />
+        </attvalues>
+      </node>
+      <node id="Mohanganj" label="Mohanganj">
+        <attvalues>
+          <attvalue for="0" value="24.8708225" />
+          <attvalue for="1" value="90.9730349" />
+        </attvalues>
+      </node>
+      <node id="Jaforshahi" label="Jaforshahi">
+        <attvalues>
+          <attvalue for="0" value="24.813078700217094" />
+          <attvalue for="1" value=" 89.85849894439038" />
+        </attvalues>
+      </node>
+      <node id="Adv. Motiur Rahman" label="Adv. Motiur Rahman">
+        <attvalues>
+          <attvalue for="0" value="24.660946915236384" />
+          <attvalue for="1" value=" 89.81728662938426" />
+        </attvalues>
+      </node>
+      <node id="Hemnagar" label="Hemnagar">
+        <attvalues>
+          <attvalue for="0" value="24.5679749" />
+          <attvalue for="1" value="89.8596709" />
+        </attvalues>
+      </node>
+      <node id="Bhuapur" label="Bhuapur">
+        <attvalues>
+          <attvalue for="0" value="24.46730345" />
+          <attvalue for="1" value="89.86667267512726" />
+        </attvalues>
+      </node>
+      <node id="Hasanpur" label="Hasanpur">
+        <attvalues>
+          <attvalue for="0" value="23.135506" />
+          <attvalue for="1" value="91.2372613" />
+        </attvalues>
+      </node>
+      <node id="Shashidal" label="Shashidal">
+        <attvalues>
+          <attvalue for="0" value="23.639354" />
+          <attvalue for="1" value="91.146913" />
+        </attvalues>
+      </node>
+      <node id="Chitoshi_Road" label="Chitoshi_Road">
+        <attvalues>
+          <attvalue for="0" value="23.235783030499633" />
+          <attvalue for="1" value=" 91.02788029600504" />
+        </attvalues>
+      </node>
+      <node id="Meher" label="Meher">
+        <attvalues>
+          <attvalue for="0" value="23.2451995" />
+          <attvalue for="1" value="90.9433168" />
+        </attvalues>
+      </node>
+      <node id="Hajiganj" label="Hajiganj">
+        <attvalues>
+          <attvalue for="0" value="23.2581807" />
+          <attvalue for="1" value="90.8482297" />
+        </attvalues>
+      </node>
+      <node id="Modhu_Road" label="Modhu_Road">
+        <attvalues>
+          <attvalue for="0" value="23.24430193947292" />
+          <attvalue for="1" value=" 90.75556670817045" />
+        </attvalues>
+      </node>
+      <node id="Chandpur_Court" label="Chandpur_Court">
+        <attvalues>
+          <attvalue for="0" value="23.2255213" />
+          <attvalue for="1" value="90.655019" />
+        </attvalues>
+      </node>
+      <node id="Chandpur" label="Chandpur">
+        <attvalues>
+          <attvalue for="0" value="23.2309202" />
+          <attvalue for="1" value="90.6430506" />
+        </attvalues>
+      </node>
+      <node id="Lokmanpur" label="Lokmanpur">
+        <attvalues>
+          <attvalue for="0" value="24.281199104762447" />
+          <attvalue for="1" value=" 88.93361717875436" />
+        </attvalues>
+      </node>
+      <node id="Rajshahi_Court" label="Rajshahi_Court">
+        <attvalues>
+          <attvalue for="0" value="24.3789741" />
+          <attvalue for="1" value="88.56551185310644" />
+        </attvalues>
+      </node>
+      <node id="Amnura" label="Amnura">
+        <attvalues>
+          <attvalue for="0" value="24.6151297" />
+          <attvalue for="1" value="88.3955117" />
+        </attvalues>
+      </node>
+      <node id="Nachole" label="Nachole">
+        <attvalues>
+          <attvalue for="0" value="24.724725937376554" />
+          <attvalue for="1" value=" 88.40253685966256" />
+        </attvalues>
+      </node>
+      <node id="Rohanpur" label="Rohanpur">
+        <attvalues>
+          <attvalue for="0" value="24.8204543" />
+          <attvalue for="1" value="88.3194605" />
+        </attvalues>
+      </node>
+      <node id="Narayanganj" label="Narayanganj">
+        <attvalues>
+          <attvalue for="0" value="23.617983" />
+          <attvalue for="1" value="90.505575" />
+        </attvalues>
+      </node>
+      <node id="Cox's Bazar" label="Cox's Bazar">
+        <attvalues>
+          <attvalue for="0" value="21.4293611" />
+          <attvalue for="1" value="92.0150366" />
+        </attvalues>
+      </node>
+      <node id="Sholoshohor" label="Sholoshohor">
+        <attvalues>
+          <attvalue for="0" value="22.368622" />
+          <attvalue for="1" value=" 91.826473" />
+        </attvalues>
+      </node>
+      <node id="Janali_Hat" label="Janali_Hat">
+        <attvalues>
+          <attvalue for="0" value="22.396107" />
+          <attvalue for="1" value="91.871763" />
+        </attvalues>
+      </node>
+      <node id="Patiya" label="Patiya">
+        <attvalues>
+          <attvalue for="0" value="22.2978905" />
+          <attvalue for="1" value="91.9820023" />
+        </attvalues>
+      </node>
+      <node id="Dohazari" label="Dohazari">
+        <attvalues>
+          <attvalue for="0" value="22.1633514" />
+          <attvalue for="1" value="92.069168" />
+        </attvalues>
+      </node>
+      <node id="Satkania" label="Satkania">
+        <attvalues>
+          <attvalue for="0" value="22.09211895" />
+          <attvalue for="1" value="92.06197376490263" />
+        </attvalues>
+      </node>
+      <node id="Chakaria" label="Chakaria">
+        <attvalues>
+          <attvalue for="0" value="21.756285743939895" />
+          <attvalue for="1" value=" 92.04237137435422" />
+        </attvalues>
+      </node>
+      <node id="Dulahazara" label="Dulahazara">
+        <attvalues>
+          <attvalue for="0" value="21.675352618716765" />
+          <attvalue for="1" value=" 92.07369239563904" />
+        </attvalues>
+      </node>
+      <node id="Ramu" label="Ramu">
+        <attvalues>
+          <attvalue for="0" value="21.422186144341556" />
+          <attvalue for="1" value=" 92.09536312689504" />
+        </attvalues>
+      </node>
+      <node id="Manmathapur" label="Manmathapur">
+        <attvalues>
+          <attvalue for="0" value="25.658762125571172" />
+          <attvalue for="1" value=" 88.85240293310203" />
+        </attvalues>
+      </node>
+      <node id="Kawgaon" label="Kawgaon">
+        <attvalues>
+          <attvalue for="0" value="25.62846112510656" />
+          <attvalue for="1" value=" 88.57368699581144" />
+        </attvalues>
+      </node>
+      <node id="Kanchan_Junction" label="Kanchan_Junction">
+        <attvalues>
+          <attvalue for="0" value="25.623360" />
+          <attvalue for="1" value=" 88.600960" />
+        </attvalues>
+      </node>
+      <node id="Mongalpur" label="Mongalpur">
+        <attvalues>
+          <attvalue for="0" value="25.718787118871926" />
+          <attvalue for="1" value=" 88.53553914435658" />
+        </attvalues>
+      </node>
+      <node id="Sultanpur" label="Sultanpur">
+        <attvalues>
+          <attvalue for="0" value="25.822892" />
+          <attvalue for="1" value="88.40384" />
+        </attvalues>
+      </node>
+      <node id="Akhanagar" label="Akhanagar">
+        <attvalues>
+          <attvalue for="0" value="26.098883" />
+          <attvalue for="1" value="88.391353" />
+        </attvalues>
+      </node>
+      <node id="Nayaniburuj" label="Nayaniburuj">
+        <attvalues>
+          <attvalue for="0" value="26.276834" />
+          <attvalue for="1" value=" 88.495815" />
+        </attvalues>
+      </node>
     </nodes>
     <edges>
       <edge source="Dhaka" target="Biman_Bandar" id="0" />
