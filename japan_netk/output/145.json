@@ -1,0 +1,20 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"145","LINE_NAME":"Ōme Line","LINE_dokotrain_ID":"145","LINE_dokotrain_NAME":"Ōme Line","LINE_section_ID":"1452","STATION_ID":"2241820120","STATION_NAME_KANJI":"青梅","STATION_NAME_EN_M":"Ōme","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":7,"mrf":"OME","srf":"OME"},
+{"LINE_ID":"145","LINE_NAME":"Ōme Line","LINE_dokotrain_ID":"145","LINE_dokotrain_NAME":"Ōme Line","LINE_section_ID":"1452","STATION_ID":"2241820130","STATION_NAME_KANJI":"宮ノ平","STATION_NAME_EN_M":"Miyanohira","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OME","srf":"OME"},
+{"LINE_ID":"145","LINE_NAME":"Ōme Line","LINE_dokotrain_ID":"145","LINE_dokotrain_NAME":"Ōme Line","LINE_section_ID":"1452","STATION_ID":"2241820140","STATION_NAME_KANJI":"日向和田","STATION_NAME_EN_M":"Hinatawada","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OME","srf":"OME"},
+{"LINE_ID":"145","LINE_NAME":"Ōme Line","LINE_dokotrain_ID":"145","LINE_dokotrain_NAME":"Ōme Line","LINE_section_ID":"1452","STATION_ID":"2241820150","STATION_NAME_KANJI":"石神前","STATION_NAME_EN_M":"Ishigamimae","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OME","srf":"OME"},
+{"LINE_ID":"145","LINE_NAME":"Ōme Line","LINE_dokotrain_ID":"145","LINE_dokotrain_NAME":"Ōme Line","LINE_section_ID":"1452","STATION_ID":"2241820160","STATION_NAME_KANJI":"二俣尾","STATION_NAME_EN_M":"Futamatao","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OME","srf":"OME"},
+{"LINE_ID":"145","LINE_NAME":"Ōme Line","LINE_dokotrain_ID":"145","LINE_dokotrain_NAME":"Ōme Line","LINE_section_ID":"1452","STATION_ID":"2241820170","STATION_NAME_KANJI":"軍畑","STATION_NAME_EN_M":"Ikusabata","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OME","srf":"OME"},
+{"LINE_ID":"145","LINE_NAME":"Ōme Line","LINE_dokotrain_ID":"145","LINE_dokotrain_NAME":"Ōme Line","LINE_section_ID":"1452","STATION_ID":"2241820180","STATION_NAME_KANJI":"沢井","STATION_NAME_EN_M":"Sawai","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OME","srf":"OZAWA"},
+{"LINE_ID":"145","LINE_NAME":"Ōme Line","LINE_dokotrain_ID":"145","LINE_dokotrain_NAME":"Ōme Line","LINE_section_ID":"1452","STATION_ID":"2241820190","STATION_NAME_KANJI":"御嶽","STATION_NAME_EN_M":"Mitake","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OME","srf":"OZAWA"},
+{"LINE_ID":"145","LINE_NAME":"Ōme Line","LINE_dokotrain_ID":"145","LINE_dokotrain_NAME":"Ōme Line","LINE_section_ID":"1452","STATION_ID":"2241820200","STATION_NAME_KANJI":"川井","STATION_NAME_EN_M":"Kawai","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OGCH","srf":"OZAWA"},
+{"LINE_ID":"145","LINE_NAME":"Ōme Line","LINE_dokotrain_ID":"145","LINE_dokotrain_NAME":"Ōme Line","LINE_section_ID":"1452","STATION_ID":"2241820210","STATION_NAME_KANJI":"古里","STATION_NAME_EN_M":"Kori","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OGCH","srf":"OZAWA"},
+{"LINE_ID":"145","LINE_NAME":"Ōme Line","LINE_dokotrain_ID":"145","LINE_dokotrain_NAME":"Ōme Line","LINE_section_ID":"1452","STATION_ID":"2241820220","STATION_NAME_KANJI":"鳩ノ巣","STATION_NAME_EN_M":"Hatonosu","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OGCH","srf":"OGCH"},
+{"LINE_ID":"145","LINE_NAME":"Ōme Line","LINE_dokotrain_ID":"145","LINE_dokotrain_NAME":"Ōme Line","LINE_section_ID":"1452","STATION_ID":"2241820230","STATION_NAME_KANJI":"白丸","STATION_NAME_EN_M":"Shiromaru","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OGCH","srf":"OGCH"},
+{"LINE_ID":"145","LINE_NAME":"Ōme Line","LINE_dokotrain_ID":"145","LINE_dokotrain_NAME":"Ōme Line","LINE_section_ID":"1452","STATION_ID":"2241820240","STATION_NAME_KANJI":"奥多摩","STATION_NAME_EN_M":"Oku-Tama","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":0,"mrf":"OGCH","srf":"OGCH"}
+	]
+}

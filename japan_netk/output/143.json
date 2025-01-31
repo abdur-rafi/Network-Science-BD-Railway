@@ -1,0 +1,15 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"143","LINE_NAME":"Shin-etsu Line","LINE_dokotrain_ID":"143","LINE_dokotrain_NAME":"Shin-etsu Line(Takasaki-Yokokawa)","LINE_section_ID":"1431","STATION_ID":"2241114160","STATION_NAME_KANJI":"高崎","STATION_NAME_EN_M":"Takasaki","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":1,"mrf":"MAEBSH","srf":"FJK"},
+{"LINE_ID":"143","LINE_NAME":"Shin-etsu Line","LINE_dokotrain_ID":"143","LINE_dokotrain_NAME":"Shin-etsu Line(Takasaki-Yokokawa)","LINE_section_ID":"1431","STATION_ID":"2241111010","STATION_NAME_KANJI":"北高崎","STATION_NAME_EN_M":"Kita-Takasaki","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"MAEBSH","srf":"MAEBSH"},
+{"LINE_ID":"143","LINE_NAME":"Shin-etsu Line","LINE_dokotrain_ID":"143","LINE_dokotrain_NAME":"Shin-etsu Line(Takasaki-Yokokawa)","LINE_section_ID":"1431","STATION_ID":"2241111020","STATION_NAME_KANJI":"群馬八幡","STATION_NAME_EN_M":"Gumma-Yawata","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"KMSTM","srf":"KMSTM"},
+{"LINE_ID":"143","LINE_NAME":"Shin-etsu Line","LINE_dokotrain_ID":"143","LINE_dokotrain_NAME":"Shin-etsu Line(Takasaki-Yokokawa)","LINE_section_ID":"1431","STATION_ID":"2241111030","STATION_NAME_KANJI":"安中","STATION_NAME_EN_M":"Annaka","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"KMSTM","srf":"KMSTM"},
+{"LINE_ID":"143","LINE_NAME":"Shin-etsu Line","LINE_dokotrain_ID":"143","LINE_dokotrain_NAME":"Shin-etsu Line(Takasaki-Yokokawa)","LINE_section_ID":"1431","STATION_ID":"2241111040","STATION_NAME_KANJI":"磯部","STATION_NAME_EN_M":"Isobe","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"KMSTM","srf":"KMSTM"},
+{"LINE_ID":"143","LINE_NAME":"Shin-etsu Line","LINE_dokotrain_ID":"143","LINE_dokotrain_NAME":"Shin-etsu Line(Takasaki-Yokokawa)","LINE_section_ID":"1431","STATION_ID":"2241111050","STATION_NAME_KANJI":"松井田","STATION_NAME_EN_M":"Matsuida","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"NSHNM","srf":"NSHNM"},
+{"LINE_ID":"143","LINE_NAME":"Shin-etsu Line","LINE_dokotrain_ID":"143","LINE_dokotrain_NAME":"Shin-etsu Line(Takasaki-Yokokawa)","LINE_section_ID":"1431","STATION_ID":"2241111130","STATION_NAME_KANJI":"西松井田","STATION_NAME_EN_M":"Nishi-Matsuida","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"NSHNM","srf":"NSHNM"},
+{"LINE_ID":"143","LINE_NAME":"Shin-etsu Line","LINE_dokotrain_ID":"143","LINE_dokotrain_NAME":"Shin-etsu Line(Takasaki-Yokokawa)","LINE_section_ID":"1431","STATION_ID":"2241111060","STATION_NAME_KANJI":"横川","STATION_NAME_EN_M":"Yokokawa","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":0,"mrf":"NSHNM","srf":"NSHNM"}
+	]
+}

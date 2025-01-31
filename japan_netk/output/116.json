@@ -1,0 +1,19 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"116","LINE_NAME":"Aterasawa Line","LINE_dokotrain_ID":"116","LINE_dokotrain_NAME":"Aterasawa Line","LINE_section_ID":"1161","STATION_ID":"2221308180","STATION_NAME_KANJI":"山形","STATION_NAME_EN_M":"Yamagata","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":1,"mrf":"YAMG","srf":"YAMG"},
+{"LINE_ID":"116","LINE_NAME":"Aterasawa Line","LINE_dokotrain_ID":"116","LINE_dokotrain_NAME":"Aterasawa Line","LINE_section_ID":"1161","STATION_ID":"2221308190","STATION_NAME_KANJI":"北山形","STATION_NAME_EN_M":"Kita-Yamagata","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"YAMG","srf":"YAMG"},
+{"LINE_ID":"116","LINE_NAME":"Aterasawa Line","LINE_dokotrain_ID":"116","LINE_dokotrain_NAME":"Aterasawa Line","LINE_section_ID":"1161","STATION_ID":"2221324010","STATION_NAME_KANJI":"東金井","STATION_NAME_EN_M":"Higashi-Kanai","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"YAMG","srf":"YAMG"},
+{"LINE_ID":"116","LINE_NAME":"Aterasawa Line","LINE_dokotrain_ID":"116","LINE_dokotrain_NAME":"Aterasawa Line","LINE_section_ID":"1161","STATION_ID":"2221324020","STATION_NAME_KANJI":"羽前山辺","STATION_NAME_EN_M":"Uzen-Yamabe","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"YAMG","srf":"YAMG"},
+{"LINE_ID":"116","LINE_NAME":"Aterasawa Line","LINE_dokotrain_ID":"116","LINE_dokotrain_NAME":"Aterasawa Line","LINE_section_ID":"1161","STATION_ID":"2221324030","STATION_NAME_KANJI":"羽前金沢","STATION_NAME_EN_M":"Uzen-Kanezawa","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"ATRZW","srf":"ATRZW"},
+{"LINE_ID":"116","LINE_NAME":"Aterasawa Line","LINE_dokotrain_ID":"116","LINE_dokotrain_NAME":"Aterasawa Line","LINE_section_ID":"1161","STATION_ID":"2221324040","STATION_NAME_KANJI":"羽前長崎","STATION_NAME_EN_M":"Uzen-Nagasaki","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"ATRZW","srf":"ATRZW"},
+{"LINE_ID":"116","LINE_NAME":"Aterasawa Line","LINE_dokotrain_ID":"116","LINE_dokotrain_NAME":"Aterasawa Line","LINE_section_ID":"1161","STATION_ID":"2221324050","STATION_NAME_KANJI":"南寒河江","STATION_NAME_EN_M":"Minami-Sagae","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"ATRZW","srf":"ATRZW"},
+{"LINE_ID":"116","LINE_NAME":"Aterasawa Line","LINE_dokotrain_ID":"116","LINE_dokotrain_NAME":"Aterasawa Line","LINE_section_ID":"1161","STATION_ID":"2221324060","STATION_NAME_KANJI":"寒河江","STATION_NAME_EN_M":"Sagae","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"ATRZW","srf":"ATRZW"},
+{"LINE_ID":"116","LINE_NAME":"Aterasawa Line","LINE_dokotrain_ID":"116","LINE_dokotrain_NAME":"Aterasawa Line","LINE_section_ID":"1161","STATION_ID":"2221324070","STATION_NAME_KANJI":"西寒河江","STATION_NAME_EN_M":"Nishi-Sagae","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"ATRZW","srf":"ATRZW"},
+{"LINE_ID":"116","LINE_NAME":"Aterasawa Line","LINE_dokotrain_ID":"116","LINE_dokotrain_NAME":"Aterasawa Line","LINE_section_ID":"1161","STATION_ID":"2221324080","STATION_NAME_KANJI":"羽前高松","STATION_NAME_EN_M":"Uzen-Takamatsu","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"ATRZW","srf":"ATRZW"},
+{"LINE_ID":"116","LINE_NAME":"Aterasawa Line","LINE_dokotrain_ID":"116","LINE_dokotrain_NAME":"Aterasawa Line","LINE_section_ID":"1161","STATION_ID":"2221324090","STATION_NAME_KANJI":"柴橋","STATION_NAME_EN_M":"Shibahashi","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"ATRZW","srf":"ATRZW"},
+{"LINE_ID":"116","LINE_NAME":"Aterasawa Line","LINE_dokotrain_ID":"116","LINE_dokotrain_NAME":"Aterasawa Line","LINE_section_ID":"1161","STATION_ID":"2221324100","STATION_NAME_KANJI":"左沢","STATION_NAME_EN_M":"Aterazawa","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":0,"mrf":"ATRZW","srf":"ATRZW"}
+	]
+}

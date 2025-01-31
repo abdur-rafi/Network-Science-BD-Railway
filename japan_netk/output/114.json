@@ -1,0 +1,17 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"114","LINE_NAME":"Rikū-West Line","LINE_dokotrain_ID":"114","LINE_dokotrain_NAME":"Rikū-West Line","LINE_section_ID":"1141","STATION_ID":"2221308370","STATION_NAME_KANJI":"新庄","STATION_NAME_EN_M":"Shinjō","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":1,"mrf":"KNYM","srf":"SHNJ"},
+{"LINE_ID":"114","LINE_NAME":"Rikū-West Line","LINE_dokotrain_ID":"114","LINE_dokotrain_NAME":"Rikū-West Line","LINE_section_ID":"1141","STATION_ID":"2221323010","STATION_NAME_KANJI":"升形","STATION_NAME_EN_M":"Masukata","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"KNYM","srf":"SHNJ"},
+{"LINE_ID":"114","LINE_NAME":"Rikū-West Line","LINE_dokotrain_ID":"114","LINE_dokotrain_NAME":"Rikū-West Line","LINE_section_ID":"1141","STATION_ID":"2221323020","STATION_NAME_KANJI":"羽前前波","STATION_NAME_EN_M":"Uzen-Zennami","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"HIJOR","srf":"SHNJ"},
+{"LINE_ID":"114","LINE_NAME":"Rikū-West Line","LINE_dokotrain_ID":"114","LINE_dokotrain_NAME":"Rikū-West Line","LINE_section_ID":"1141","STATION_ID":"2221323030","STATION_NAME_KANJI":"津谷","STATION_NAME_EN_M":"Tsuya","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"HIJOR","srf":"SHNJ"},
+{"LINE_ID":"114","LINE_NAME":"Rikū-West Line","LINE_dokotrain_ID":"114","LINE_dokotrain_NAME":"Rikū-West Line","LINE_section_ID":"1141","STATION_ID":"2221323040","STATION_NAME_KANJI":"古口","STATION_NAME_EN_M":"Furukuchi","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"HIJOR","srf":"HIJOR"},
+{"LINE_ID":"114","LINE_NAME":"Rikū-West Line","LINE_dokotrain_ID":"114","LINE_dokotrain_NAME":"Rikū-West Line","LINE_section_ID":"1141","STATION_ID":"2221323050","STATION_NAME_KANJI":"高屋","STATION_NAME_EN_M":"Takaya","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"KRIKW","srf":"KRIKW"},
+{"LINE_ID":"114","LINE_NAME":"Rikū-West Line","LINE_dokotrain_ID":"114","LINE_dokotrain_NAME":"Rikū-West Line","LINE_section_ID":"1141","STATION_ID":"2221323060","STATION_NAME_KANJI":"清川","STATION_NAME_EN_M":"Kiyokawa","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"KRIKW","srf":"KRIKW"},
+{"LINE_ID":"114","LINE_NAME":"Rikū-West Line","LINE_dokotrain_ID":"114","LINE_dokotrain_NAME":"Rikū-West Line","LINE_section_ID":"1141","STATION_ID":"2221323070","STATION_NAME_KANJI":"狩川","STATION_NAME_EN_M":"Karikawa","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"KRIKW","srf":"KRIKW"},
+{"LINE_ID":"114","LINE_NAME":"Rikū-West Line","LINE_dokotrain_ID":"114","LINE_dokotrain_NAME":"Rikū-West Line","LINE_section_ID":"1141","STATION_ID":"2221323080","STATION_NAME_KANJI":"南野","STATION_NAME_EN_M":"Minamino","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"KRIKW","srf":"KRIKW"},
+{"LINE_ID":"114","LINE_NAME":"Rikū-West Line","LINE_dokotrain_ID":"114","LINE_dokotrain_NAME":"Rikū-West Line","LINE_section_ID":"1141","STATION_ID":"2230003340","STATION_NAME_KANJI":"余目","STATION_NAME_EN_M":"Amarume","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":2,"mrf":"KRIKW","srf":"KRIKW"}
+	]
+}

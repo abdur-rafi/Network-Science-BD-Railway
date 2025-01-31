@@ -1,0 +1,14 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"155","LINE_NAME":"Kashima Line","LINE_dokotrain_ID":"155","LINE_dokotrain_NAME":"Kashima Line","LINE_section_ID":"1551","STATION_ID":"2241303250","STATION_NAME_KANJI":"佐原","STATION_NAME_EN_M":"Sawara","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":1,"mrf":"KTR","srf":"KTR"},
+{"LINE_ID":"155","LINE_NAME":"Kashima Line","LINE_dokotrain_ID":"155","LINE_dokotrain_NAME":"Kashima Line","LINE_section_ID":"1551","STATION_ID":"2241303260","STATION_NAME_KANJI":"香取","STATION_NAME_EN_M":"Katori","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":3,"mrf":"KTR","srf":"KTR"},
+{"LINE_ID":"155","LINE_NAME":"Kashima Line","LINE_dokotrain_ID":"155","LINE_dokotrain_NAME":"Kashima Line","LINE_section_ID":"1551","STATION_ID":"2241304010","STATION_NAME_KANJI":"十二橋","STATION_NAME_EN_M":"Jūnikyō","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"KTR","srf":"KTR"},
+{"LINE_ID":"155","LINE_NAME":"Kashima Line","LINE_dokotrain_ID":"155","LINE_dokotrain_NAME":"Kashima Line","LINE_section_ID":"1551","STATION_ID":"2241304020","STATION_NAME_KANJI":"潮来","STATION_NAME_EN_M":"Itako","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"KSIMA","srf":"KSIMA"},
+{"LINE_ID":"155","LINE_NAME":"Kashima Line","LINE_dokotrain_ID":"155","LINE_dokotrain_NAME":"Kashima Line","LINE_section_ID":"1551","STATION_ID":"2241304030","STATION_NAME_KANJI":"延方","STATION_NAME_EN_M":"Nobukata","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"KSIMA","srf":"KSIMA"},
+{"LINE_ID":"155","LINE_NAME":"Kashima Line","LINE_dokotrain_ID":"155","LINE_dokotrain_NAME":"Kashima Line","LINE_section_ID":"1551","STATION_ID":"2241304040","STATION_NAME_KANJI":"鹿島神宮","STATION_NAME_EN_M":"Kashimajingū","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":3,"TRSF_FLAG":0,"mrf":"KSIMA","srf":"KSIMA"},
+{"LINE_ID":"155","LINE_NAME":"Kashima Line","LINE_dokotrain_ID":"155","LINE_dokotrain_NAME":"Kashima Line","LINE_section_ID":"1551","STATION_ID":"2241304050","STATION_NAME_KANJI":"鹿島サッカースタジアム（臨）","STATION_NAME_EN_M":"Kashima-Soccer Stadium（Seasonal）","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":0,"mrf":"KSIMA","srf":"KSIMA"}
+	]
+}

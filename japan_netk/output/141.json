@@ -1,0 +1,14 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"141","LINE_NAME":"Nikkō Line","LINE_dokotrain_ID":"141","LINE_dokotrain_NAME":"Nikkō Line","LINE_section_ID":"1411","STATION_ID":"2241510330","STATION_NAME_KANJI":"宇都宮","STATION_NAME_EN_M":"Utsunomiya","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":4,"mrf":"UTSNMY","srf":"UTSNMY"},
+{"LINE_ID":"141","LINE_NAME":"Nikkō Line","LINE_dokotrain_ID":"141","LINE_dokotrain_NAME":"Nikkō Line","LINE_section_ID":"1411","STATION_ID":"2241518010","STATION_NAME_KANJI":"鶴田","STATION_NAME_EN_M":"Tsuruta","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"UTSNMY","srf":"UTSNMY"},
+{"LINE_ID":"141","LINE_NAME":"Nikkō Line","LINE_dokotrain_ID":"141","LINE_dokotrain_NAME":"Nikkō Line","LINE_section_ID":"1411","STATION_ID":"2241518020","STATION_NAME_KANJI":"鹿沼","STATION_NAME_EN_M":"Kanuma","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"KNMA","srf":"KNMA"},
+{"LINE_ID":"141","LINE_NAME":"Nikkō Line","LINE_dokotrain_ID":"141","LINE_dokotrain_NAME":"Nikkō Line","LINE_section_ID":"1411","STATION_ID":"2241518030","STATION_NAME_KANJI":"文挾","STATION_NAME_EN_M":"Fubasami","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"KNMA","srf":"KNMA"},
+{"LINE_ID":"141","LINE_NAME":"Nikkō Line","LINE_dokotrain_ID":"141","LINE_dokotrain_NAME":"Nikkō Line","LINE_section_ID":"1411","STATION_ID":"2241518040","STATION_NAME_KANJI":"下野大沢","STATION_NAME_EN_M":"Shimotsuke-Ōsawa","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"IMAICH","srf":"IMAICH"},
+{"LINE_ID":"141","LINE_NAME":"Nikkō Line","LINE_dokotrain_ID":"141","LINE_dokotrain_NAME":"Nikkō Line","LINE_section_ID":"1411","STATION_ID":"2241518050","STATION_NAME_KANJI":"今市","STATION_NAME_EN_M":"Imaichi","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"IMAICH","srf":"IMAICH"},
+{"LINE_ID":"141","LINE_NAME":"Nikkō Line","LINE_dokotrain_ID":"141","LINE_dokotrain_NAME":"Nikkō Line","LINE_section_ID":"1411","STATION_ID":"2241518060","STATION_NAME_KANJI":"日光","STATION_NAME_EN_M":"Nikkō","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":0,"mrf":"IMAICH","srf":"IMAICH"}
+	]
+}

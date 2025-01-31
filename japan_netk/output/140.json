@@ -1,0 +1,17 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"140","LINE_NAME":"Karasuyama Line","LINE_dokotrain_ID":"140","LINE_dokotrain_NAME":"Karasuyama Line","LINE_section_ID":"1401","STATION_ID":"2241510330","STATION_NAME_KANJI":"宇都宮","STATION_NAME_EN_M":"Utsunomiya","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":4,"mrf":"UTSNMY","srf":"UTSNMY"},
+{"LINE_ID":"140","LINE_NAME":"Karasuyama Line","LINE_dokotrain_ID":"140","LINE_dokotrain_NAME":"Karasuyama Line","LINE_section_ID":"1401","STATION_ID":"2241510340","STATION_NAME_KANJI":"岡本","STATION_NAME_EN_M":"Okamoto","service_flag":4,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"UTSNMY","srf":"TKNZW"},
+{"LINE_ID":"140","LINE_NAME":"Karasuyama Line","LINE_dokotrain_ID":"140","LINE_dokotrain_NAME":"Karasuyama Line","LINE_section_ID":"1401","STATION_ID":"2241510350","STATION_NAME_KANJI":"宝積寺","STATION_NAME_EN_M":"Hōshakuji","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":9,"mrf":"NSKRS","srf":"TKNZW"},
+{"LINE_ID":"140","LINE_NAME":"Karasuyama Line","LINE_dokotrain_ID":"140","LINE_dokotrain_NAME":"Karasuyama Line","LINE_section_ID":"1401","STATION_ID":"2241519010","STATION_NAME_KANJI":"下野花岡","STATION_NAME_EN_M":"Shimotsuke-Hanaoka","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"NSKRS","srf":"TKNZW"},
+{"LINE_ID":"140","LINE_NAME":"Karasuyama Line","LINE_dokotrain_ID":"140","LINE_dokotrain_NAME":"Karasuyama Line","LINE_section_ID":"1401","STATION_ID":"2241519020","STATION_NAME_KANJI":"仁井田","STATION_NAME_EN_M":"Niita","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"NSKRS","srf":"TKNZW"},
+{"LINE_ID":"140","LINE_NAME":"Karasuyama Line","LINE_dokotrain_ID":"140","LINE_dokotrain_NAME":"Karasuyama Line","LINE_section_ID":"1401","STATION_ID":"2241519030","STATION_NAME_KANJI":"鴻野山","STATION_NAME_EN_M":"Kōnoyama","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"NSKRS","srf":"NSKRS"},
+{"LINE_ID":"140","LINE_NAME":"Karasuyama Line","LINE_dokotrain_ID":"140","LINE_dokotrain_NAME":"Karasuyama Line","LINE_section_ID":"1401","STATION_ID":"2241519040","STATION_NAME_KANJI":"大金","STATION_NAME_EN_M":"Ōgane","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"NSKRS","srf":"NSKRS"},
+{"LINE_ID":"140","LINE_NAME":"Karasuyama Line","LINE_dokotrain_ID":"140","LINE_dokotrain_NAME":"Karasuyama Line","LINE_section_ID":"1401","STATION_ID":"2241519050","STATION_NAME_KANJI":"小塙","STATION_NAME_EN_M":"Kobana","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"NSKRS","srf":"NSKRS"},
+{"LINE_ID":"140","LINE_NAME":"Karasuyama Line","LINE_dokotrain_ID":"140","LINE_dokotrain_NAME":"Karasuyama Line","LINE_section_ID":"1401","STATION_ID":"2241519060","STATION_NAME_KANJI":"滝","STATION_NAME_EN_M":"Taki","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"NSKRS","srf":"NSKRS"},
+{"LINE_ID":"140","LINE_NAME":"Karasuyama Line","LINE_dokotrain_ID":"140","LINE_dokotrain_NAME":"Karasuyama Line","LINE_section_ID":"1401","STATION_ID":"2241519070","STATION_NAME_KANJI":"烏山","STATION_NAME_EN_M":"Karasuyama","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":0,"mrf":"NSKRS","srf":"NSKRS"}
+	]
+}

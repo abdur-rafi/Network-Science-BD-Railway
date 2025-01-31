@@ -1,0 +1,12 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"156","LINE_NAME":"Tōgane Line","LINE_dokotrain_ID":"156","LINE_dokotrain_NAME":"Tōgane Line","LINE_section_ID":"1561","STATION_ID":"2241314060","STATION_NAME_KANJI":"大網","STATION_NAME_EN_M":"Ōami","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":1,"mrf":"MBR","srf":"MBR"},
+{"LINE_ID":"156","LINE_NAME":"Tōgane Line","LINE_dokotrain_ID":"156","LINE_dokotrain_NAME":"Tōgane Line","LINE_section_ID":"1561","STATION_ID":"2241319010","STATION_NAME_KANJI":"福俵","STATION_NAME_EN_M":"Fukutawara","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"MBR","srf":"MBR"},
+{"LINE_ID":"156","LINE_NAME":"Tōgane Line","LINE_dokotrain_ID":"156","LINE_dokotrain_NAME":"Tōgane Line","LINE_section_ID":"1561","STATION_ID":"2241319020","STATION_NAME_KANJI":"東金","STATION_NAME_EN_M":"Tōgane","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":3,"TRSF_FLAG":0,"mrf":"YKSHB","srf":"YKSHB"},
+{"LINE_ID":"156","LINE_NAME":"Tōgane Line","LINE_dokotrain_ID":"156","LINE_dokotrain_NAME":"Tōgane Line","LINE_section_ID":"1561","STATION_ID":"2241319030","STATION_NAME_KANJI":"求名","STATION_NAME_EN_M":"Gumyō","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"YKSHB","srf":"YKSHB"},
+{"LINE_ID":"156","LINE_NAME":"Tōgane Line","LINE_dokotrain_ID":"156","LINE_dokotrain_NAME":"Tōgane Line","LINE_section_ID":"1561","STATION_ID":"2241312270","STATION_NAME_KANJI":"成東","STATION_NAME_EN_M":"Narutō","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":2,"mrf":"YKSHB","srf":"YKSHB"}
+	]
+}

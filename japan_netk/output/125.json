@@ -1,0 +1,16 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"125","LINE_NAME":"Kesennuma Line","LINE_dokotrain_ID":"125","LINE_dokotrain_NAME":"Kesennuma Line","LINE_section_ID":"1251","STATION_ID":"2221310450","STATION_NAME_KANJI":"小牛田","STATION_NAME_EN_M":"Kogota","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":1,"mrf":"KSHMD","srf":"KSHMD"},
+{"LINE_ID":"125","LINE_NAME":"Kesennuma Line","LINE_dokotrain_ID":"125","LINE_dokotrain_NAME":"Kesennuma Line","LINE_section_ID":"1251","STATION_ID":"2221321010","STATION_NAME_KANJI":"上涌谷","STATION_NAME_EN_M":"Kami-Wakuya","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"KSHMD","srf":"KSHMD"},
+{"LINE_ID":"125","LINE_NAME":"Kesennuma Line","LINE_dokotrain_ID":"125","LINE_dokotrain_NAME":"Kesennuma Line","LINE_section_ID":"1251","STATION_ID":"2221321020","STATION_NAME_KANJI":"涌谷","STATION_NAME_EN_M":"Wakuya","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"KSHMD","srf":"KSHMD"},
+{"LINE_ID":"125","LINE_NAME":"Kesennuma Line","LINE_dokotrain_ID":"125","LINE_dokotrain_NAME":"Kesennuma Line","LINE_section_ID":"1251","STATION_ID":"2221321040","STATION_NAME_KANJI":"前谷地","STATION_NAME_EN_M":"Maeyachi","service_flag":1,"STAD_FLAG_UP":3,"STAD_FLAG_DOWN":3,"TRSF_FLAG":3,"mrf":"MONOU","srf":"MONOU"},
+{"LINE_ID":"125","LINE_NAME":"Kesennuma Line","LINE_dokotrain_ID":"125","LINE_dokotrain_NAME":"Kesennuma Line","LINE_section_ID":"1251","STATION_ID":"2221328010","STATION_NAME_KANJI":"和渕","STATION_NAME_EN_M":"Wabuchi","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"MONOU","srf":"MONOU"},
+{"LINE_ID":"125","LINE_NAME":"Kesennuma Line","LINE_dokotrain_ID":"125","LINE_dokotrain_NAME":"Kesennuma Line","LINE_section_ID":"1251","STATION_ID":"2221328020","STATION_NAME_KANJI":"のの岳","STATION_NAME_EN_M":"Nonodake","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"MONOU","srf":"MONOU"},
+{"LINE_ID":"125","LINE_NAME":"Kesennuma Line","LINE_dokotrain_ID":"125","LINE_dokotrain_NAME":"Kesennuma Line","LINE_section_ID":"1251","STATION_ID":"2221328030","STATION_NAME_KANJI":"陸前豊里","STATION_NAME_EN_M":"Rikuzen-Toyosato","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"MONOU","srf":"MONOU"},
+{"LINE_ID":"125","LINE_NAME":"Kesennuma Line","LINE_dokotrain_ID":"125","LINE_dokotrain_NAME":"Kesennuma Line","LINE_section_ID":"1251","STATION_ID":"2221328040","STATION_NAME_KANJI":"御岳堂","STATION_NAME_EN_M":"Mitakedō","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"MONOU","srf":"MONOU"},
+{"LINE_ID":"125","LINE_NAME":"Kesennuma Line","LINE_dokotrain_ID":"125","LINE_dokotrain_NAME":"Kesennuma Line","LINE_section_ID":"1251","STATION_ID":"2221328050","STATION_NAME_KANJI":"柳津","STATION_NAME_EN_M":"Yanaizu","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":2,"mrf":"MONOU","srf":"MONOU"}
+	]
+}

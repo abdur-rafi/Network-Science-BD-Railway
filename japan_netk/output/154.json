@@ -1,0 +1,17 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"154","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"154","LINE_dokotrain_NAME":"Narita Line（for Abiko）","LINE_section_ID":"1541","STATION_ID":"2241511130","STATION_NAME_KANJI":"我孫子","STATION_NAME_EN_M":"Abiko","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":7,"mrf":"ABIK","srf":"ABIK"},
+{"LINE_ID":"154","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"154","LINE_dokotrain_NAME":"Narita Line（for Abiko）","LINE_section_ID":"1541","STATION_ID":"2241303120","STATION_NAME_KANJI":"東我孫子","STATION_NAME_EN_M":"Higashi-Abiko","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"ABIK","srf":"ABIK"},
+{"LINE_ID":"154","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"154","LINE_dokotrain_NAME":"Narita Line（for Abiko）","LINE_section_ID":"1541","STATION_ID":"2241303090","STATION_NAME_KANJI":"湖北","STATION_NAME_EN_M":"Kohoku","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"ABIK","srf":"ABIK"},
+{"LINE_ID":"154","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"154","LINE_dokotrain_NAME":"Narita Line（for Abiko）","LINE_section_ID":"1541","STATION_ID":"2241303080","STATION_NAME_KANJI":"新木","STATION_NAME_EN_M":"Araki","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"ABIK","srf":"ABIK"},
+{"LINE_ID":"154","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"154","LINE_dokotrain_NAME":"Narita Line（for Abiko）","LINE_section_ID":"1541","STATION_ID":"2241303070","STATION_NAME_KANJI":"布佐","STATION_NAME_EN_M":"Fusa","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"ABIK","srf":"ABIK"},
+{"LINE_ID":"154","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"154","LINE_dokotrain_NAME":"Narita Line（for Abiko）","LINE_section_ID":"1541","STATION_ID":"2241303060","STATION_NAME_KANJI":"木下","STATION_NAME_EN_M":"Kioroshi","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"ABIK","srf":"ABIK"},
+{"LINE_ID":"154","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"154","LINE_dokotrain_NAME":"Narita Line（for Abiko）","LINE_section_ID":"1541","STATION_ID":"2241303050","STATION_NAME_KANJI":"小林","STATION_NAME_EN_M":"Kobayashi","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"RYGSK","srf":"RYGSK"},
+{"LINE_ID":"154","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"154","LINE_dokotrain_NAME":"Narita Line（for Abiko）","LINE_section_ID":"1541","STATION_ID":"2241303040","STATION_NAME_KANJI":"安食","STATION_NAME_EN_M":"Ajiki","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"RYGSK","srf":"RYGSK"},
+{"LINE_ID":"154","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"154","LINE_dokotrain_NAME":"Narita Line（for Abiko）","LINE_section_ID":"1541","STATION_ID":"2241303030","STATION_NAME_KANJI":"下総松崎","STATION_NAME_EN_M":"Shimōsa-Manzaki","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"SKRA","srf":"SKRA"},
+{"LINE_ID":"154","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"154","LINE_dokotrain_NAME":"Narita Line（for Abiko）","LINE_section_ID":"1541","STATION_ID":"2241303020","STATION_NAME_KANJI":"成田","STATION_NAME_EN_M":"Narita","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":2,"mrf":"NRIT","srf":"NRIT"}
+	]
+}

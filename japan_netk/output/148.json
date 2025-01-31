@@ -1,0 +1,13 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"148","LINE_NAME":"Itō Line","LINE_dokotrain_ID":"148","LINE_dokotrain_NAME":"Itō Line","LINE_section_ID":"1481","STATION_ID":"2241601310","STATION_NAME_KANJI":"熱海","STATION_NAME_EN_M":"Atami","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"AJIRO","srf":"AJIRO"},
+{"LINE_ID":"148","LINE_NAME":"Itō Line","LINE_dokotrain_ID":"148","LINE_dokotrain_NAME":"Itō Line","LINE_section_ID":"1481","STATION_ID":"2241619010","STATION_NAME_KANJI":"来宮","STATION_NAME_EN_M":"Kinomiya","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"AJIRO","srf":"AJIRO"},
+{"LINE_ID":"148","LINE_NAME":"Itō Line","LINE_dokotrain_ID":"148","LINE_dokotrain_NAME":"Itō Line","LINE_section_ID":"1481","STATION_ID":"2241619020","STATION_NAME_KANJI":"伊豆多賀","STATION_NAME_EN_M":"Izu-Taga","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"AJIRO","srf":"AJIRO"},
+{"LINE_ID":"148","LINE_NAME":"Itō Line","LINE_dokotrain_ID":"148","LINE_dokotrain_NAME":"Itō Line","LINE_section_ID":"1481","STATION_ID":"2241619030","STATION_NAME_KANJI":"網代","STATION_NAME_EN_M":"Ajiro","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"AJIRO","srf":"AJIRO"},
+{"LINE_ID":"148","LINE_NAME":"Itō Line","LINE_dokotrain_ID":"148","LINE_dokotrain_NAME":"Itō Line","LINE_section_ID":"1481","STATION_ID":"2241619040","STATION_NAME_KANJI":"宇佐美","STATION_NAME_EN_M":"Usami","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"AJIRO","srf":"AJIRO"},
+{"LINE_ID":"148","LINE_NAME":"Itō Line","LINE_dokotrain_ID":"148","LINE_dokotrain_NAME":"Itō Line","LINE_section_ID":"1481","STATION_ID":"2241619050","STATION_NAME_KANJI":"伊東","STATION_NAME_EN_M":"Itō","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":0,"mrf":"AJIRO","srf":"AJIRO"}
+	]
+}

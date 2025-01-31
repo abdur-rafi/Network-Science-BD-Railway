@@ -1,0 +1,17 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"153","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"153","LINE_dokotrain_NAME":"Narita Line","LINE_section_ID":"1531","STATION_ID":"2241312180","STATION_NAME_KANJI":"千葉","STATION_NAME_EN_M":"Chiba","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":4,"mrf":"CHI","srf":"CHI"},
+{"LINE_ID":"153","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"153","LINE_dokotrain_NAME":"Narita Line","LINE_section_ID":"1531","STATION_ID":"2241312390","STATION_NAME_KANJI":"東千葉","STATION_NAME_EN_M":"Higashi-Chiba","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"CHI","srf":"CHI"},
+{"LINE_ID":"153","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"153","LINE_dokotrain_NAME":"Narita Line","LINE_section_ID":"1531","STATION_ID":"2241312190","STATION_NAME_KANJI":"都賀","STATION_NAME_EN_M":"Tsuga","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"CHI","srf":"CHI"},
+{"LINE_ID":"153","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"153","LINE_dokotrain_NAME":"Narita Line","LINE_section_ID":"1531","STATION_ID":"2241312200","STATION_NAME_KANJI":"四街道","STATION_NAME_EN_M":"Yotsukaidō","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":3,"TRSF_FLAG":0,"mrf":"SKRA","srf":"SKRA"},
+{"LINE_ID":"153","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"153","LINE_dokotrain_NAME":"Narita Line","LINE_section_ID":"1531","STATION_ID":"2241312210","STATION_NAME_KANJI":"物井","STATION_NAME_EN_M":"Monoi","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"SKRA","srf":"SKRA"},
+{"LINE_ID":"153","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"153","LINE_dokotrain_NAME":"Narita Line","LINE_section_ID":"1532","STATION_ID":"2241312220","STATION_NAME_KANJI":"佐倉","STATION_NAME_EN_M":"Sakura","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":3,"TRSF_FLAG":3,"mrf":"SKRA","srf":"SKRA"},
+{"LINE_ID":"153","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"153","LINE_dokotrain_NAME":"Narita Line","LINE_section_ID":"1532","STATION_ID":"2241303010","STATION_NAME_KANJI":"酒々井","STATION_NAME_EN_M":"Shisui","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"SKRA","srf":"SKRA"},
+{"LINE_ID":"153","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"153","LINE_dokotrain_NAME":"Narita Line","LINE_section_ID":"1533","STATION_ID":"2241303020","STATION_NAME_KANJI":"成田","STATION_NAME_EN_M":"Narita","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":3,"TRSF_FLAG":3,"mrf":"NRIT","srf":"NRIT"},
+{"LINE_ID":"153","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"153","LINE_dokotrain_NAME":"Narita Line","LINE_section_ID":"1533","STATION_ID":"2241303510","STATION_NAME_KANJI":"空港第２ビル","STATION_NAME_EN_M":"Narita Airport Terminal 2・3","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"NRIT","srf":"NRIT"},
+{"LINE_ID":"153","LINE_NAME":"Narita Line","LINE_dokotrain_ID":"153","LINE_dokotrain_NAME":"Narita Line","LINE_section_ID":"1533","STATION_ID":"2241303520","STATION_NAME_KANJI":"成田空港","STATION_NAME_EN_M":"Narita Airport Terminal 1","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":0,"mrf":"NRIT","srf":"NRIT"}
+	]
+}

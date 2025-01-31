@@ -1,0 +1,20 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"123","LINE_NAME":"Oga Line","LINE_dokotrain_ID":"123","LINE_dokotrain_NAME":"Oga Line","LINE_section_ID":"1231","STATION_ID":"2221208550","STATION_NAME_KANJI":"秋田","STATION_NAME_EN_M":"Akita","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":1,"mrf":"AKI","srf":"AKI"},
+{"LINE_ID":"123","LINE_NAME":"Oga Line","LINE_dokotrain_ID":"123","LINE_dokotrain_NAME":"Oga Line","LINE_section_ID":"1231","STATION_ID":"2221208555","STATION_NAME_KANJI":"泉外旭川","STATION_NAME_EN_M":"Izumi-Sotoasahikawa","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"AKI","srf":"AKI"},
+{"LINE_ID":"123","LINE_NAME":"Oga Line","LINE_dokotrain_ID":"123","LINE_dokotrain_NAME":"Oga Line","LINE_section_ID":"1231","STATION_ID":"2221208570","STATION_NAME_KANJI":"土崎","STATION_NAME_EN_M":"Tsuchizaki","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"AKI","srf":"AKI"},
+{"LINE_ID":"123","LINE_NAME":"Oga Line","LINE_dokotrain_ID":"123","LINE_dokotrain_NAME":"Oga Line","LINE_section_ID":"1231","STATION_ID":"2221208580","STATION_NAME_KANJI":"上飯島","STATION_NAME_EN_M":"Kami-Iijima","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"AKI","srf":"AKI"},
+{"LINE_ID":"123","LINE_NAME":"Oga Line","LINE_dokotrain_ID":"123","LINE_dokotrain_NAME":"Oga Line","LINE_section_ID":"1231","STATION_ID":"2221208590","STATION_NAME_KANJI":"追分","STATION_NAME_EN_M":"Oiwake","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":3,"mrf":"AKI","srf":"AKI"},
+{"LINE_ID":"123","LINE_NAME":"Oga Line","LINE_dokotrain_ID":"123","LINE_dokotrain_NAME":"Oga Line","LINE_section_ID":"1231","STATION_ID":"2221218010","STATION_NAME_KANJI":"出戸浜","STATION_NAME_EN_M":"Detohama","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"GJM","srf":"GJM"},
+{"LINE_ID":"123","LINE_NAME":"Oga Line","LINE_dokotrain_ID":"123","LINE_dokotrain_NAME":"Oga Line","LINE_section_ID":"1231","STATION_ID":"2221218020","STATION_NAME_KANJI":"上二田","STATION_NAME_EN_M":"Kami-Futada","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OGAA","srf":"OGAA"},
+{"LINE_ID":"123","LINE_NAME":"Oga Line","LINE_dokotrain_ID":"123","LINE_dokotrain_NAME":"Oga Line","LINE_section_ID":"1231","STATION_ID":"2221218030","STATION_NAME_KANJI":"二田","STATION_NAME_EN_M":"Futada","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OGAA","srf":"OGAA"},
+{"LINE_ID":"123","LINE_NAME":"Oga Line","LINE_dokotrain_ID":"123","LINE_dokotrain_NAME":"Oga Line","LINE_section_ID":"1231","STATION_ID":"2221218040","STATION_NAME_KANJI":"天王","STATION_NAME_EN_M":"Tennō","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OGAA","srf":"OGAA"},
+{"LINE_ID":"123","LINE_NAME":"Oga Line","LINE_dokotrain_ID":"123","LINE_dokotrain_NAME":"Oga Line","LINE_section_ID":"1231","STATION_ID":"2221218050","STATION_NAME_KANJI":"船越","STATION_NAME_EN_M":"Funakoshi","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OGAA","srf":"OGAA"},
+{"LINE_ID":"123","LINE_NAME":"Oga Line","LINE_dokotrain_ID":"123","LINE_dokotrain_NAME":"Oga Line","LINE_section_ID":"1231","STATION_ID":"2221218060","STATION_NAME_KANJI":"脇本","STATION_NAME_EN_M":"Wakimoto","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OGAA","srf":"OGAA"},
+{"LINE_ID":"123","LINE_NAME":"Oga Line","LINE_dokotrain_ID":"123","LINE_dokotrain_NAME":"Oga Line","LINE_section_ID":"1231","STATION_ID":"2221218070","STATION_NAME_KANJI":"羽立","STATION_NAME_EN_M":"Hadachi","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"OGAA","srf":"OGAA"},
+{"LINE_ID":"123","LINE_NAME":"Oga Line","LINE_dokotrain_ID":"123","LINE_dokotrain_NAME":"Oga Line","LINE_section_ID":"1231","STATION_ID":"2221218080","STATION_NAME_KANJI":"男鹿","STATION_NAME_EN_M":"Oga","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":0,"mrf":"OGAA","srf":"OGAA"}
+	]
+}

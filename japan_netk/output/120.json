@@ -1,0 +1,18 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"120","LINE_NAME":"Ōminato Line","LINE_dokotrain_ID":"120","LINE_dokotrain_NAME":"Ōminato Line","LINE_section_ID":"1201","STATION_ID":"2221110560","STATION_NAME_KANJI":"野辺地","STATION_NAME_EN_M":"Noheji","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"NHZ","srf":"NHZ"},
+{"LINE_ID":"120","LINE_NAME":"Ōminato Line","LINE_dokotrain_ID":"120","LINE_dokotrain_NAME":"Ōminato Line","LINE_section_ID":"1201","STATION_ID":"2221123010","STATION_NAME_KANJI":"北野辺地","STATION_NAME_EN_M":"Kita-Noheji","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"NHZ","srf":"NHZ"},
+{"LINE_ID":"120","LINE_NAME":"Ōminato Line","LINE_dokotrain_ID":"120","LINE_dokotrain_NAME":"Ōminato Line","LINE_section_ID":"1201","STATION_ID":"2221123020","STATION_NAME_KANJI":"有戸","STATION_NAME_EN_M":"Arito","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"NHZ","srf":"NHZ"},
+{"LINE_ID":"120","LINE_NAME":"Ōminato Line","LINE_dokotrain_ID":"120","LINE_dokotrain_NAME":"Ōminato Line","LINE_section_ID":"1201","STATION_ID":"2221123030","STATION_NAME_KANJI":"吹越","STATION_NAME_EN_M":"Fukkoshi","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"RKKSH","srf":"RKKSH"},
+{"LINE_ID":"120","LINE_NAME":"Ōminato Line","LINE_dokotrain_ID":"120","LINE_dokotrain_NAME":"Ōminato Line","LINE_section_ID":"1201","STATION_ID":"2221123040","STATION_NAME_KANJI":"陸奥横浜","STATION_NAME_EN_M":"Mutsu-Yokohama","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"ODNSW","srf":"ODNSW"},
+{"LINE_ID":"120","LINE_NAME":"Ōminato Line","LINE_dokotrain_ID":"120","LINE_dokotrain_NAME":"Ōminato Line","LINE_section_ID":"1201","STATION_ID":"2221123050","STATION_NAME_KANJI":"有畑","STATION_NAME_EN_M":"Arihata","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"ODNSW","srf":"ODNSW"},
+{"LINE_ID":"120","LINE_NAME":"Ōminato Line","LINE_dokotrain_ID":"120","LINE_dokotrain_NAME":"Ōminato Line","LINE_section_ID":"1201","STATION_ID":"2221123060","STATION_NAME_KANJI":"近川","STATION_NAME_EN_M":"Chikagawa","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"ODNSW","srf":"ODNSW"},
+{"LINE_ID":"120","LINE_NAME":"Ōminato Line","LINE_dokotrain_ID":"120","LINE_dokotrain_NAME":"Ōminato Line","LINE_section_ID":"1201","STATION_ID":"2221123070","STATION_NAME_KANJI":"金谷沢","STATION_NAME_EN_M":"Kanayasawa","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"MTS","srf":"MTS"},
+{"LINE_ID":"120","LINE_NAME":"Ōminato Line","LINE_dokotrain_ID":"120","LINE_dokotrain_NAME":"Ōminato Line","LINE_section_ID":"1201","STATION_ID":"2221123080","STATION_NAME_KANJI":"赤川","STATION_NAME_EN_M":"Akagawa","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"MTS","srf":"MTS"},
+{"LINE_ID":"120","LINE_NAME":"Ōminato Line","LINE_dokotrain_ID":"120","LINE_dokotrain_NAME":"Ōminato Line","LINE_section_ID":"1201","STATION_ID":"2221123090","STATION_NAME_KANJI":"下北","STATION_NAME_EN_M":"Shimokita","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"MTS","srf":"MTS"},
+{"LINE_ID":"120","LINE_NAME":"Ōminato Line","LINE_dokotrain_ID":"120","LINE_dokotrain_NAME":"Ōminato Line","LINE_section_ID":"1201","STATION_ID":"2221123100","STATION_NAME_KANJI":"大湊","STATION_NAME_EN_M":"Ōminato","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":0,"mrf":"MTS","srf":"MTS"}
+	]
+}

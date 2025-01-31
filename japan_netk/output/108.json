@@ -1,0 +1,15 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"108","LINE_NAME":"Sendai Airport Access Line","LINE_dokotrain_ID":"108","LINE_dokotrain_NAME":"Sendai Airport Access Line","LINE_section_ID":"1081","STATION_ID":"2958900030","STATION_NAME_KANJI":"仙台空港","STATION_NAME_EN_M":"Sendai Airport","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"SEN2","srf":"SEN2"},
+{"LINE_ID":"108","LINE_NAME":"Sendai Airport Access Line","LINE_dokotrain_ID":"108","LINE_dokotrain_NAME":"Sendai Airport Access Line","LINE_section_ID":"1081","STATION_ID":"2958900020","STATION_NAME_KANJI":"美田園","STATION_NAME_EN_M":"Mitazono","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"SEN2","srf":"SEN2"},
+{"LINE_ID":"108","LINE_NAME":"Sendai Airport Access Line","LINE_dokotrain_ID":"108","LINE_dokotrain_NAME":"Sendai Airport Access Line","LINE_section_ID":"1081","STATION_ID":"2958900010","STATION_NAME_KANJI":"杜せきのした","STATION_NAME_EN_M":"Morisekinoshita","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"SEN2","srf":"SEN2"},
+{"LINE_ID":"108","LINE_NAME":"Sendai Airport Access Line","LINE_dokotrain_ID":"108","LINE_dokotrain_NAME":"Sendai Airport Access Line","LINE_section_ID":"1081","STATION_ID":"2221310320","STATION_NAME_KANJI":"名取","STATION_NAME_EN_M":"Natori","service_flag":1,"STAD_FLAG_UP":3,"STAD_FLAG_DOWN":3,"TRSF_FLAG":0,"mrf":"SEN2","srf":"SEN2"},
+{"LINE_ID":"108","LINE_NAME":"Sendai Airport Access Line","LINE_dokotrain_ID":"108","LINE_dokotrain_NAME":"Sendai Airport Access Line","LINE_section_ID":"1081","STATION_ID":"2221310330","STATION_NAME_KANJI":"南仙台","STATION_NAME_EN_M":"Minami-Sendai","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"SEN2","srf":"SEN2"},
+{"LINE_ID":"108","LINE_NAME":"Sendai Airport Access Line","LINE_dokotrain_ID":"108","LINE_dokotrain_NAME":"Sendai Airport Access Line","LINE_section_ID":"1081","STATION_ID":"2221310335","STATION_NAME_KANJI":"太子堂","STATION_NAME_EN_M":"Taishidō","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"SEN","srf":"SEN"},
+{"LINE_ID":"108","LINE_NAME":"Sendai Airport Access Line","LINE_dokotrain_ID":"108","LINE_dokotrain_NAME":"Sendai Airport Access Line","LINE_section_ID":"1081","STATION_ID":"2221310340","STATION_NAME_KANJI":"長町","STATION_NAME_EN_M":"Nagamachi","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"SEN","srf":"SEN"},
+{"LINE_ID":"108","LINE_NAME":"Sendai Airport Access Line","LINE_dokotrain_ID":"108","LINE_dokotrain_NAME":"Sendai Airport Access Line","LINE_section_ID":"1081","STATION_ID":"2221310350","STATION_NAME_KANJI":"仙台","STATION_NAME_EN_M":"Sendai","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":2,"mrf":"SEN","srf":"SEN"}
+	]
+}

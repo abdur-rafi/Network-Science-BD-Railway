@@ -1,0 +1,15 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"134","LINE_NAME":"Yahiko Line","LINE_dokotrain_ID":"134","LINE_dokotrain_NAME":"Yahiko Line","LINE_section_ID":"1341","STATION_ID":"2230020010","STATION_NAME_KANJI":"弥彦","STATION_NAME_EN_M":"Yahiko","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"TRDMR","srf":"TRDMR"},
+{"LINE_ID":"134","LINE_NAME":"Yahiko Line","LINE_dokotrain_ID":"134","LINE_dokotrain_NAME":"Yahiko Line","LINE_section_ID":"1341","STATION_ID":"2230020020","STATION_NAME_KANJI":"矢作","STATION_NAME_EN_M":"Yahagi","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"TRDMR","srf":"TRDMR"},
+{"LINE_ID":"134","LINE_NAME":"Yahiko Line","LINE_dokotrain_ID":"134","LINE_dokotrain_NAME":"Yahiko Line","LINE_section_ID":"1342","STATION_ID":"2230018160","STATION_NAME_KANJI":"吉田","STATION_NAME_EN_M":"Yoshida","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":3,"mrf":"SANJO","srf":"SANJO"},
+{"LINE_ID":"134","LINE_NAME":"Yahiko Line","LINE_dokotrain_ID":"134","LINE_dokotrain_NAME":"Yahiko Line","LINE_section_ID":"1342","STATION_ID":"2230020030","STATION_NAME_KANJI":"西燕","STATION_NAME_EN_M":"Nishi-Tsubame","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"SANJO","srf":"SANJO"},
+{"LINE_ID":"134","LINE_NAME":"Yahiko Line","LINE_dokotrain_ID":"134","LINE_dokotrain_NAME":"Yahiko Line","LINE_section_ID":"1342","STATION_ID":"2230020040","STATION_NAME_KANJI":"燕","STATION_NAME_EN_M":"Tsubame","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"SANJO","srf":"SANJO"},
+{"LINE_ID":"134","LINE_NAME":"Yahiko Line","LINE_dokotrain_ID":"134","LINE_dokotrain_NAME":"Yahiko Line","LINE_section_ID":"1342","STATION_ID":"2230011850","STATION_NAME_KANJI":"燕三条","STATION_NAME_EN_M":"Tsubamesanjō","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"SANJO","srf":"SANJO"},
+{"LINE_ID":"134","LINE_NAME":"Yahiko Line","LINE_dokotrain_ID":"134","LINE_dokotrain_NAME":"Yahiko Line","LINE_section_ID":"1342","STATION_ID":"2230020050","STATION_NAME_KANJI":"北三条","STATION_NAME_EN_M":"Kita-Sanjō","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"SANJO","srf":"SANJO"},
+{"LINE_ID":"134","LINE_NAME":"Yahiko Line","LINE_dokotrain_ID":"134","LINE_dokotrain_NAME":"Yahiko Line","LINE_section_ID":"1342","STATION_ID":"2230011380","STATION_NAME_KANJI":"東三条","STATION_NAME_EN_M":"Higashi-Sanjō","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":2,"mrf":"SANJO","srf":"SANJO"}
+	]
+}

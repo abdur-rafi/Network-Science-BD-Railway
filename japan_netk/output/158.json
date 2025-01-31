@@ -1,0 +1,12 @@
+{
+    "announced_date": "2024/01/30 03:29:49 GMT",
+    "created": "2024-01-30 03:29:49 GMT",
+    "data":
+	[
+{"LINE_ID":"158","LINE_NAME":"Nambu Line","LINE_dokotrain_ID":"158","LINE_dokotrain_NAME":"Nambu Line(Hama-Kawasaki-Shitte)","LINE_section_ID":"1581","STATION_ID":"2241601820","STATION_NAME_KANJI":"浜川崎","STATION_NAME_EN_M":"Hama-Kawasaki","service_flag":1,"STAD_FLAG_UP":2,"STAD_FLAG_DOWN":1,"TRSF_FLAG":1,"mrf":"HANED","srf":"HYSHI"},
+{"LINE_ID":"158","LINE_NAME":"Nambu Line","LINE_dokotrain_ID":"158","LINE_dokotrain_NAME":"Nambu Line(Hama-Kawasaki-Shitte)","LINE_section_ID":"1581","STATION_ID":"2241614430","STATION_NAME_KANJI":"小田栄","STATION_NAME_EN_M":"Odasakae","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"HANED","srf":"HYSHI"},
+{"LINE_ID":"158","LINE_NAME":"Nambu Line","LINE_dokotrain_ID":"158","LINE_dokotrain_NAME":"Nambu Line(Hama-Kawasaki-Shitte)","LINE_section_ID":"1581","STATION_ID":"2241614420","STATION_NAME_KANJI":"川崎新町","STATION_NAME_EN_M":"Kawasakishimmachi","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"HANED","srf":"HYSHI"},
+{"LINE_ID":"158","LINE_NAME":"Nambu Line","LINE_dokotrain_ID":"158","LINE_dokotrain_NAME":"Nambu Line(Hama-Kawasaki-Shitte)","LINE_section_ID":"1581","STATION_ID":"2241614410","STATION_NAME_KANJI":"八丁畷","STATION_NAME_EN_M":"Hatchōnawate","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":1,"TRSF_FLAG":0,"mrf":"HANED","srf":"HYSHI"},
+{"LINE_ID":"158","LINE_NAME":"Nambu Line","LINE_dokotrain_ID":"158","LINE_dokotrain_NAME":"Nambu Line(Hama-Kawasaki-Shitte)","LINE_section_ID":"1581","STATION_ID":"2241614010","STATION_NAME_KANJI":"尻手","STATION_NAME_EN_M":"Shitte","service_flag":1,"STAD_FLAG_UP":1,"STAD_FLAG_DOWN":2,"TRSF_FLAG":8,"mrf":"HANED","srf":"HYSHI"}
+	]
+}
